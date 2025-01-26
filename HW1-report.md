@@ -87,8 +87,10 @@ It changes the circles to empty cirlces
    vl.y().fieldQ("Miles_per_Gallon")
 
 *Insert the bar chart image here*
+![alt text](untitled.png)
 
 *Why do you think this chart is the result of this code change?*
+Origin is no longer on the y-axis as a categorization instead of all the countries listed it shows the whole count of records
 
 ## References
 
