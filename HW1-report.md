@@ -6,8 +6,10 @@ Due: January 26, 2025
 ## Git, GitHub
 
 *What is the URL of the GitHub repo that you created in your personal account?*
+https://github.com/weebitjolly/CS625-Classwork-and-Assignments/tree/main
    
 *What is pull vs clone in GitHub?*
+Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine
    
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
 
