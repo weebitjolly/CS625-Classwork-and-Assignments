@@ -18,6 +18,10 @@ there's multiple ways to revert a committed change on git, but there are two way
 ## Markdown
 
 *Create a bulleted list with at least 3 items*
+### Here is a bulleted list with at least 3 items. I'm planning on going to the Grocery Store
+- 2 dozen eggs
+- Sweet Potatoes
+- Blueberries
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
 
