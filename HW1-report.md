@@ -35,6 +35,8 @@ to view pull up a csv in jupyter notebook type 'pd.read_csv(path_to_csv)'
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
+![alt text](us-olympic-soccer-team-3.jpg)
+
 ## Tableau
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show countries that won the least number of medals only (excluding ZERO) in Paris2024 Summer Olynpics by continent (one country from each continent is ok).*
