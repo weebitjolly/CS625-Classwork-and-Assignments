@@ -9,9 +9,11 @@ Due: January 26, 2025
 https://github.com/weebitjolly/CS625-Classwork-and-Assignments/tree/main
    
 *What is pull vs clone in GitHub?*
-Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine
+Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine.
    
-*You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
+*You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?* 
+https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit
+there's multiple ways to revert a committed change on git, but there are two ways that stand out to me as being the most useful. One is a hard delete on unpublished commits and the other is reverting old commits with new ones. supposedly deleteing entire branches isn't useful so instead of delete whole files we just replace the old commits with new changes.
 
 ## Markdown
 
