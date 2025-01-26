@@ -47,6 +47,9 @@ to view pull up a csv in jupyter notebook type 'pd.read_csv(path_to_csv)'
 
 *What is the URL of your Google Colab notebook?*
 
+### Link to Google Collab notebook:
+[Google Colab](https://colab.research.google.com/drive/1wNPYJOMmFqjJsAESiDMnW43puXJg1gHV?usp=sharing)
+
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
