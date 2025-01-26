@@ -53,8 +53,10 @@ to view pull up a csv in jupyter notebook type 'pd.read_csv(path_to_csv)'
 ## Python/Seaborn
 
 *Insert the first penguin chart here*
+![alt text](Penguin_image_1.png)
 
 *Describe what the figure is showing.*
+it is a scatterplot that shows bill depth in millimeters in comparison to bill length in millimeters
 
 *Insert the second penguin chart here*
 
