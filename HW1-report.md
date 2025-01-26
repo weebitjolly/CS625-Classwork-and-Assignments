@@ -66,13 +66,25 @@ shows a clustered barchart that compares the body mass of the male and female se
 
 *What happened when you removed the outer parentheses from the code? Why?*
 
+   File "<ipython-input-6-841fb916e0e0>", line 2
+    .add(so.Bar(), so.Agg(), so.Dodge()
+    ^
+SyntaxError: invalid syntax 
+
+needs closing parentheses to run correctly.
+
 ## Observable and Vega-Lite
 
 *What happens when you replace `markCircle()` with `markSquare()`?*
 
+It changes the circles to squares on the plot.
+
 *What happens when you replace `markCircle()` with `markPoint()`?*
+It changes the circles to empty cirlces
 
 *What change do you need to make to swap the x and y axes on the scatterplot?*
+   vl.x().fieldQ("Horsepower"), #You're going to want to flip these around so after vl.x().fieldQ ("Miles_per_Gallon")    
+   vl.y().fieldQ("Miles_per_Gallon")
 
 *Insert the bar chart image here*
 
