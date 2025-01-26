@@ -25,7 +25,13 @@ there's multiple ways to revert a committed change on git, but there are two way
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information.*
 
+My favorite olympic sport is **Women's Soccer**. ***Women's Soccer*** is *hosted* during every Summer Olympics. It has the same rules as normal soccer, but it is played by women from around the world. I mostly like this sport because the United States wins gold in the sport a lot. In **2020** and **2024** the United States won the most gold medals in the sport. if you'd like to learn more visit [US Women's Soccer](https://www.ussoccer.com/teams/uswnt).
+
+### Here is some code: 
+to view pull up a csv in jupyter notebook type 'pd.read_csv(path_to_csv)'
+
 *Create a level 3 heading*
+### Level 3 heading
 
 *Insert a image of your favorite Olympics sport/game, sized appropriately*
 
