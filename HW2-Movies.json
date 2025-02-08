@@ -1,0 +1,515 @@
+[
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "YEAR",
+          "expression": "isBlank(value)",
+          "columnName": "YEAR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "GENRE",
+          "expression": "isBlank(value)",
+          "columnName": "GENRE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "RATING",
+          "expression": "isBlank(value)",
+          "columnName": "RATING",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "STARS",
+          "expression": "isBlank(value)",
+          "columnName": "STARS",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "VOTES",
+          "expression": "isBlank(value)",
+          "columnName": "VOTES",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "RunTime",
+          "expression": "isBlank(value)",
+          "columnName": "RunTime",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Gross",
+    "description": "Remove column Gross"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RATING",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RATING using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "VOTES",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column VOTES using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "VOTES",
+          "expression": "value",
+          "columnName": "VOTES",
+          "from": 0,
+          "to": 1000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "VOTES",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column VOTES using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "VOTES",
+          "expression": "value",
+          "columnName": "VOTES",
+          "from": 0,
+          "to": 1000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "VOTES",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column VOTES using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "VOTES",
+          "expression": "value",
+          "columnName": "VOTES",
+          "from": 0,
+          "to": 1000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "VOTES",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column VOTES using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "VOTES",
+          "expression": "value",
+          "columnName": "VOTES",
+          "from": 0,
+          "to": 1000,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "VOTES",
+    "expression": "grel:if(isNumeric(value), toNumber(value), toNumber(replace(value, \",\", \"\")))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column VOTES using expression grel:if(isNumeric(value), toNumber(value), toNumber(replace(value, \",\", \"\")))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RATING",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RATING using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RATING",
+    "expression": "grel:if(isNumeric(value), toNumber(value), 0)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RATING using expression grel:if(isNumeric(value), toNumber(value), 0)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RATING",
+    "expression": "grel:if(isNumeric(value), toNumber(value), toNumber(replace(value, \",\", \"\")))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RATING using expression grel:if(isNumeric(value), toNumber(value), toNumber(replace(value, \",\", \"\")))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RATING",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RATING using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "RunTime",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column RunTime using expression value.toNumber()"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "YEAR",
+          "expression": "value.split(/(?U)[\\W]+/)",
+          "columnName": "YEAR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "TV",
+                "l": "TV"
+              }
+            },
+            {
+              "v": {
+                "v": "XIV",
+                "l": "XIV"
+              }
+            },
+            {
+              "v": {
+                "v": "Special",
+                "l": "Special"
+              }
+            },
+            {
+              "v": {
+                "v": "Comedy",
+                "l": "Comedy"
+              }
+            },
+            {
+              "v": {
+                "v": "Short",
+                "l": "Short"
+              }
+            },
+            {
+              "v": {
+                "v": "II",
+                "l": "II"
+              }
+            },
+            {
+              "v": {
+                "v": "III",
+                "l": "III"
+              }
+            },
+            {
+              "v": {
+                "v": "IV",
+                "l": "IV"
+              }
+            },
+            {
+              "v": {
+                "v": "VI",
+                "l": "VI"
+              }
+            },
+            {
+              "v": {
+                "v": "Drama",
+                "l": "Drama"
+              }
+            },
+            {
+              "v": {
+                "v": "Video",
+                "l": "Video"
+              }
+            },
+            {
+              "v": {
+                "v": "I",
+                "l": "I"
+              }
+            },
+            {
+              "v": {
+                "v": "V",
+                "l": "V"
+              }
+            },
+            {
+              "v": {
+                "v": "Movie",
+                "l": "Movie"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "YEAR",
+    "expression": "grel:if(value.match(\".*\\\\((\\\\d{4})\\\\).*\"), value.replace(/.*\\((\\d{4})\\).*/, \"$1\"),\n   if(value.match(\".*\\\\((\\\\d{4})-\\\\).*\"), value.replace(/.*\\((\\d{4})-\\).*/, \"$1\"),\n      value.replace(/(\\d{4})\\s.*$/, \"$1\")\n   )\n)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column YEAR using expression grel:if(value.match(\".*\\\\((\\\\d{4})\\\\).*\"), value.replace(/.*\\((\\d{4})\\).*/, \"$1\"),\n   if(value.match(\".*\\\\((\\\\d{4})-\\\\).*\"), value.replace(/.*\\((\\d{4})-\\).*/, \"$1\"),\n      value.replace(/(\\d{4})\\s.*$/, \"$1\")\n   )\n)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "YEAR",
+    "expression": "grel:if(value.match(\"\\\\((\\\\d{4})\\\\)\"), value.replace(/\\((\\d{4})\\)/, \"$1\"),\n   if(value.match(\"\\\\((\\\\d{4})-\\\\)\"), value.replace(/\\((\\d{4})-\\)/, \"$1\"),\n      if(value.match(\"(\\\\d{4})\\\\s\"), value.replace(/(\\d{4})\\s.*$/, \"$1\"),\n         if(value.match(\"\\\\(\\\\d{4}-\\\\d{4}\\\\)\"), value, value)\n      )\n   )\n)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column YEAR using expression grel:if(value.match(\"\\\\((\\\\d{4})\\\\)\"), value.replace(/\\((\\d{4})\\)/, \"$1\"),\n   if(value.match(\"\\\\((\\\\d{4})-\\\\)\"), value.replace(/\\((\\d{4})-\\)/, \"$1\"),\n      if(value.match(\"(\\\\d{4})\\\\s\"), value.replace(/(\\d{4})\\s.*$/, \"$1\"),\n         if(value.match(\"\\\\(\\\\d{4}-\\\\d{4}\\\\)\"), value, value)\n      )\n   )\n)"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "RATING",
+    "expression": "grel:if(value == 0, \"Not known\",\n   if(value > 0, \n      if(value <= 4.5, \"Flop\",\n         if(value <= 6.5, \"Average\",\n            if(value <= 8.0, \"Hit\",\n               if(value > 8.0, \"Super Hit\", null)\n            )\n         )\n      ), null)\n)",
+    "onError": "set-to-blank",
+    "newColumnName": "Verdict",
+    "columnInsertIndex": 4,
+    "description": "Create column Verdict at index 4 based on column RATING using expression grel:if(value == 0, \"Not known\",\n   if(value > 0, \n      if(value <= 4.5, \"Flop\",\n         if(value <= 6.5, \"Average\",\n            if(value <= 8.0, \"Hit\",\n               if(value > 8.0, \"Super Hit\", null)\n            )\n         )\n      ), null)\n)"
+  }
+]
