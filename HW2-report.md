@@ -3,3 +3,5 @@
 CS625-HW2
 Nicholas Darrow
 Due Date: February 9, 2025
+
+## Part One: Data Cleaning Steps
