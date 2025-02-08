@@ -74,28 +74,51 @@ How many movies were listed as “Super Hit” in the year 2021?
 Which movie got highest rating in the years 2018 to 2020 by genre [one movie for each genre]?
 had to split multi-valued cells for this one. 
 Action: Cobra Kai
+
 Adventure: Sa-rang-eui bul-sa-chak
+
 Animation: She-Ra and the Princesses of Power
+
 Biography: When They See Us
+
 Comedy: Kota Factory 
+
 Crime: Elite
+
 Documentary: Formula 1: Drive to Survive
+
 Drama: The Queen's Gambit
+
 Family: The Bureau of Magical Things
+
 Fantasy: The King: Youngwonui Gunjoo
+
 Gameshow: Million Pound Menu
+
 History:The Coldest Game
+
 Horror: Typewriter
+
 Music: Hikaru Utada: Laughter in the Dark Tour 2018
+
 Musical: Westside
+
 Mystery: O Escolhido
+
 Reality TV:Car Masters: Rust to Riches
+
 Romance: TharnType
+
 Sci-Fi: Tau
+
 Short: 13 Reasons Why: Season 2 Date Announcement Commercial
+
 Sport: Selection Day
+
 Talk-show: My Next Guest Needs No Introduction with David Letterman
+
 Thriller: Black Earth Rising
+
 War: 21 Sarfarosh Saragarhi 1897
 
 List the top 3 genres (no duplicates) that got lowest number of votes (excluding 0)
