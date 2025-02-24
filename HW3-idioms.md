@@ -23,8 +23,6 @@ For this idiom I wanted to see what plants processed the different types of comp
 | Count            | value, quantitative  | vertical spatial region (y-axis)                                   |
 
 
-
-
 ![Alt text](https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/gate.png)
 | Data: Attribute | Data: Attribute Type | Encode: Channel                        |
 |----------------|---------------------|----------------------------------------|
@@ -33,20 +31,28 @@ For this idiom I wanted to see what plants processed the different types of comp
 | Point Size    | value, numerical     | marker size (`s` parameter)           |
 | Transparency  | value, numerical     | marker opacity (`alpha` parameter)    |
 
+for this idiom I wanted to see the relationship between GEN and SC/ST. We find that it's a near perfect poszitive relationship. would have been more varied with more data. This idiom is perfect for this kind of analysis because you can see how variables interact with each other statisically. I think this idiom is appropriate for this dataset because maybe we want to see how different numerical influence one another and what factors influence these test cutoffs.
+
 
 ![Alt text](https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/Screenshot%202025-02-23%20at%2019.19.52.png)
-| Data: Attribute | Data: Attribute Type |  Encode: Channel |
-| --------------- | -------------------- | ---------------- |
-|                 |                      |                  |
-|                 |                      |                  |
-|                 |                      |                  |
+
+For this idiom I wanted to see how highs and lows changed overtime using monthly averages. We can see that early on the high and low averages don't differ all that much, but as we get into the late 2010's as the company grows we see that monthly highs and lows vary and fluctuate. This is an appropriate idiom choice because we have two numerical variable plotted over a time variable on the x-axis.
 
 ![Alt text](https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/Screenshot%202025-02-23%20at%2019.21.32.png)
-| Data: Attribute | Data: Attribute Type |  Encode: Channel |
-| --------------- | -------------------- | ---------------- |
-|                 |                      |                  |
-|                 |                      |                  |
-|                 |                      |                  |
+| Data: Attribute | Data: Attribute Type  | Encode: Channel                  |
+|----------------|---------------------|----------------------------------|
+| Date          | Key, temporal        | horizontal position (x-axis)    |
+| High          | value, quantitative  | vertical position (y-axis), line color 1 |
+| Low           | value, quantitative  | vertical position (y-axis), line color 2 |
+| Month         | Derived, temporal    | x-axis grouping (resampling)    |
+
+### ease of use 
+definitely powerBI; PowerBI makes making visualizations very accessible, much like tableau just drag and drop items onto your visualization and go from there. I will say though, if you ask a lot of data analyst many say that PowerBI is great at doing 95% of the job, but there's always 5% that it can't do and that's what's great about python or R, if you want a visual to be a certain way specifically, it can do it.
+
+### References:
+https://www.codecademy.com/resources/docs/markdown/tables
+https://chatgpt.com/c/67bbb545-181c-8001-9970-5fd76a84f2fd
+
 
 
 
