@@ -51,7 +51,7 @@ definitely powerBI; PowerBI makes making visualizations very accessible, much li
 
 ### References:
 https://www.codecademy.com/resources/docs/markdown/tables
-https://chatgpt.com/c/67bbb545-181c-8001-9970-5fd76a84f2fd
+https://chatgpt.com/
 
 
 
