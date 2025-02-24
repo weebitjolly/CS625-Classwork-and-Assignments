@@ -1,0 +1,2141 @@
+Year,Quarter,Treatment Plant,Compound,Regulation,Method of Analysis,Result,Unit,Detection Level,Below MCL?
+2021,1,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,1,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,1,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,1,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,1,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,1,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,1,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,1,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,1,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,1,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,1,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,1,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,1,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,1,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,1,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,1,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,2,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,2,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,2,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,2,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,2,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,2,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,2,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,2,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,2,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,2,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,2,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,2,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,2,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,2,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,2,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,2,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,3,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,3,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,3,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,3,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,3,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,3,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,3,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,3,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,3,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,3,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,3,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,3,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,3,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,3,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,3,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,3,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,4,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,4,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,4,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,4,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,4,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,4,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,4,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,4,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,4,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2021,4,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2021,4,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2021,4,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2021,4,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,4,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2021,4,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2021,4,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,1,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,1,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,1,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,1,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,1,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,1,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,1,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,1,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,1,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,1,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,1,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,1,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,1,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,1,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,1,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,1,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,2,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,2,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,2,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,2,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,2,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,2,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,2,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,2,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,2,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,2,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,2,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,2,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,2,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,2,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,2,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,2,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,3,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,3,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,3,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,3,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,3,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,3,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,3,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,3,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,3,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,3,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,3,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,3,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,3,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,3,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,3,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,3,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,4,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,4,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,4,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,4,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,4,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,4,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,4,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,4,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,4,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2022,4,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2022,4,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2022,4,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2022,4,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2022,4,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2022,4,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2022,4,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,1,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,1,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,1,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,1,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,1,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,1,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,1,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,1,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,1,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,1,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,1,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,1,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,1,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,1,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,1,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,1,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,2,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,2,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,2,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,2,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,2,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,2,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,2,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,2,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,2,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,2,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,2,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,2,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,2,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,2,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,2,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,2,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,3,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,3,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,3,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,3,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,3,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,3,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,3,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,3,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,3,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,3,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,3,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,3,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,3,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,3,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,3,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,3,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,4,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,4,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,4,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,4,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,4,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,4,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,4,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,4,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,4,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2023,4,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2023,4,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2023,4,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2023,4,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2023,4,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2023,4,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2023,4,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,1,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2024,1,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2024,1,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2024,1,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2024,1,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,1,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2024,1,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2024,1,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,1,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2024,1,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2024,1,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2024,1,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2024,1,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,1,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2024,1,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2024,1,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,2,KML,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2024,2,KML,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2024,2,KML,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2024,2,KML,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2024,2,KML,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,2,KML,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2024,2,KML,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2024,2,KML,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,2,MB,Antimony,Primary,EPA 200.8,<0.002,mg/L,0.006 mg/L,Yes
+2024,2,MB,Arsenic,Primary,EPA 200.8,<0.002,mg/L,0.010 mg/L,Yes
+2024,2,MB,Beryllium,Primary,EPA 200.8,<0.002,mg/L,0.004 mg/L,Yes
+2024,2,MB,Cadmium,Primary,EPA 200.8,<0.002,mg/L,0.005 mg/L,Yes
+2024,2,MB,Chromium,Primary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2024,2,MB,Selenium,Primary,EPA 200.8,<0.002,mg/L,0.05 mg/L,Yes
+2024,2,MB,Thallium,Primary,EPA 200.8,<0.002,mg/L,0.002 mg/L,Yes
+2024,2,MB,Silver,Secondary,EPA 200.8,<0.002,mg/L,0.1 mg/L,Yes
+2021,3,KML,Uranium,Primary,EPA 200.8,<1,µg/L,30 µg/L,Yes
+2021,3,MB,Uranium,Primary,EPA 200.8,<1,µg/L,30 µg/L,Yes
+2021,1,KML,Barium,Primary,EPA 200.8,0.028,mg/L,2 mg/L,Yes
+2021,1,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,1,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,1,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,1,KML,Aluminum,Secondary,EPA 200.8,0.017,mg/L,0.05-0.2 mg/L,Yes
+2021,1,KML,Iron,Secondary,EPA 200.8,<0.012,mg/L,0.3 mg/L,Yes
+2021,1,KML,Manganese,Secondary,EPA 200.8,<0.006,mg/L,0.05 mg/L,Yes
+2021,1,KML,Zinc,Secondary,EPA 200.8,0.192,mg/L,5 mg/L,Yes
+2021,1,MB,Barium,Primary,EPA 200.8,0.028,mg/L,2 mg/L,Yes
+2021,1,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,1,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,1,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,1,MB,Aluminum,Secondary,EPA 200.8,0.031,mg/L,0.05-0.2 mg/L,Yes
+2021,1,MB,Iron,Secondary,EPA 200.8,<0.012,mg/L,0.3 mg/L,Yes
+2021,1,MB,Manganese,Secondary,EPA 200.8,<0.006,mg/L,0.05 mg/L,Yes
+2021,1,MB,Zinc,Secondary,EPA 200.8,0.272,mg/L,5 mg/L,Yes
+2021,2,KML,Barium,Primary,EPA 200.8,0.033,mg/L,2 mg/L,Yes
+2021,2,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,2,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,2,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,2,KML,Aluminum,Secondary,EPA 200.8,0.009,mg/L,0.05-0.2 mg/L,Yes
+2021,2,KML,Iron,Secondary,EPA 200.8,<0.012,mg/L,0.3 mg/L,Yes
+2021,2,KML,Manganese,Secondary,EPA 200.8,<0.006,mg/L,0.05 mg/L,Yes
+2021,2,KML,Zinc,Secondary,EPA 200.8,0.186,mg/L,5 mg/L,Yes
+2021,2,MB,Barium,Primary,EPA 200.8,0.034,mg/L,2 mg/L,Yes
+2021,2,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,2,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,2,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,2,MB,Aluminum,Secondary,EPA 200.8,0.021,mg/L,0.05-0.2 mg/L,Yes
+2021,2,MB,Iron,Secondary,EPA 200.8,<0.012,mg/L,0.3 mg/L,Yes
+2021,2,MB,Manganese,Secondary,EPA 200.8,<0.006,mg/L,0.05 mg/L,Yes
+2021,2,MB,Zinc,Secondary,EPA 200.8,0.253,mg/L,5 mg/L,Yes
+2021,3,KML,Barium,Primary,EPA 200.8,0.036,mg/L,2 mg/L,Yes
+2021,3,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,3,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,3,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,3,KML,Aluminum,Secondary,EPA 200.8,0.009,mg/L,0.05-0.2 mg/L,Yes
+2021,3,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2021,3,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2021,3,KML,Zinc,Secondary,EPA 200.8,0.195,mg/L,5 mg/L,Yes
+2021,3,MB,Barium,Primary,EPA 200.8,0.034,mg/L,2 mg/L,Yes
+2021,3,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,3,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,3,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,3,MB,Aluminum,Secondary,EPA 200.8,0.02,mg/L,0.05-0.2 mg/L,Yes
+2021,3,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2021,3,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2021,3,MB,Zinc,Secondary,EPA 200.8,0.189,mg/L,5 mg/L,Yes
+2021,4,KML,Barium,Primary,EPA 200.8,0.03,mg/L,2 mg/L,Yes
+2021,4,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,4,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,4,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,4,KML,Aluminum,Secondary,EPA 200.8,0.008,mg/L,0.05-0.2 mg/L,Yes
+2021,4,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2021,4,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2021,4,KML,Zinc,Secondary,EPA 200.8,0.197,mg/L,5 mg/L,Yes
+2021,4,MB,Barium,Primary,EPA 200.8,0.03,mg/L,2 mg/L,Yes
+2021,4,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2021,4,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2021,4,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2021,4,MB,Aluminum,Secondary,EPA 200.8,0.014,mg/L,0.05-0.2 mg/L,Yes
+2021,4,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2021,4,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2021,4,MB,Zinc,Secondary,EPA 200.8,0.247,mg/L,5 mg/L,Yes
+2022,1,KML,Barium,Primary,EPA 200.8,0.022,mg/L,2 mg/L,Yes
+2022,1,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,1,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,1,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,1,KML,Aluminum,Secondary,EPA 200.8,0.02,mg/L,0.05-0.2 mg/L,Yes
+2022,1,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,1,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,1,KML,Zinc,Secondary,EPA 200.8,0.166,mg/L,5 mg/L,Yes
+2022,1,MB,Barium,Primary,EPA 200.8,0.023,mg/L,2 mg/L,Yes
+2022,1,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,1,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,1,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,1,MB,Aluminum,Secondary,EPA 200.8,0.054,mg/L,0.05-0.2 mg/L,Yes
+2022,1,MB,Iron,Secondary,EPA 200.8,0.013,mg/L,0.3 mg/L,Yes
+2022,1,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,1,MB,Zinc,Secondary,EPA 200.8,0.199,mg/L,5 mg/L,Yes
+2022,2,KML,Barium,Primary,EPA 200.8,0.028,mg/L,2 mg/L,Yes
+2022,2,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,2,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,2,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,2,KML,Aluminum,Secondary,EPA 200.8,0.006,mg/L,0.05-0.2 mg/L,Yes
+2022,2,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,2,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,2,KML,Zinc,Secondary,EPA 200.8,0.225,mg/L,5 mg/L,Yes
+2022,2,MB,Barium,Primary,EPA 200.8,0.027,mg/L,2 mg/L,Yes
+2022,2,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,2,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,2,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,2,MB,Aluminum,Secondary,EPA 200.8,0.022,mg/L,0.05-0.2 mg/L,Yes
+2022,2,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,2,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,2,MB,Zinc,Secondary,EPA 200.8,0.204,mg/L,5 mg/L,Yes
+2022,3,KML,Barium,Primary,EPA 200.8,0.039,mg/L,2 mg/L,Yes
+2022,3,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,3,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,3,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,3,KML,Aluminum,Secondary,EPA 200.8,0.007,mg/L,0.05-0.2 mg/L,Yes
+2022,3,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,3,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,3,KML,Zinc,Secondary,EPA 200.8,0.193,mg/L,5 mg/L,Yes
+2022,3,MB,Barium,Primary,EPA 200.8,0.037,mg/L,2 mg/L,Yes
+2022,3,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,3,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,3,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,3,MB,Aluminum,Secondary,EPA 200.8,0.025,mg/L,0.05-0.2 mg/L,Yes
+2022,3,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,3,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,3,MB,Zinc,Secondary,EPA 200.8,0.209,mg/L,5 mg/L,Yes
+2022,4,KML,Barium,Primary,EPA 200.8,0.027,mg/L,2 mg/L,Yes
+2022,4,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,4,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,4,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,4,KML,Aluminum,Secondary,EPA 200.8,0.006,mg/L,0.05-0.2 mg/L,Yes
+2022,4,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,4,KML,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,4,KML,Zinc,Secondary,EPA 200.8,0.234,mg/L,5 mg/L,Yes
+2022,4,MB,Barium,Primary,EPA 200.8,0.028,mg/L,2 mg/L,Yes
+2022,4,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2022,4,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2022,4,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2022,4,MB,Aluminum,Secondary,EPA 200.8,0.02,mg/L,0.05-0.2 mg/L,Yes
+2022,4,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2022,4,MB,Manganese,Secondary,EPA 200.8,<0.004,mg/L,0.05 mg/L,Yes
+2022,4,MB,Zinc,Secondary,EPA 200.8,0.153,mg/L,5 mg/L,Yes
+2023,1,KML,Barium,Primary,EPA 200.8,0.023,mg/L,2 mg/L,Yes
+2023,1,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,1,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,1,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,1,KML,Aluminum,Secondary,EPA 200.8,0.019,mg/L,0.05-0.2 mg/L,Yes
+2023,1,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,1,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,1,KML,Zinc,Secondary,EPA 200.8,0.284,mg/L,5 mg/L,Yes
+2023,1,MB,Barium,Primary,EPA 200.8,0.025,mg/L,2 mg/L,Yes
+2023,1,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,1,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,1,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,1,MB,Aluminum,Secondary,EPA 200.8,0.036,mg/L,0.05-0.2 mg/L,Yes
+2023,1,MB,Iron,Secondary,EPA 200.8,0.017,mg/L,0.3 mg/L,Yes
+2023,1,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,1,MB,Zinc,Secondary,EPA 200.8,0.217,mg/L,5 mg/L,Yes
+2023,2,KML,Barium,Primary,EPA 200.8,0.025,mg/L,2 mg/L,Yes
+2023,2,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,2,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,2,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,2,KML,Aluminum,Secondary,EPA 200.8,0.009,mg/L,0.05-0.2 mg/L,Yes
+2023,2,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,2,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,2,KML,Zinc,Secondary,EPA 200.8,0.118,mg/L,5 mg/L,Yes
+2023,2,MB,Barium,Primary,EPA 200.8,0.026,mg/L,2 mg/L,Yes
+2023,2,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,2,MB,Lead,Primary,EPA 200.8,<0.003,mg/L,0.015 mg/L,Yes
+2023,2,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,2,MB,Aluminum,Secondary,EPA 200.8,0.02,mg/L,0.05-0.2 mg/L,Yes
+2023,2,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,2,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,2,MB,Zinc,Secondary,EPA 200.8,0.263,mg/L,5 mg/L,Yes
+2023,3,KML,Barium,Primary,EPA 200.8,0.04,mg/L,2 mg/L,Yes
+2023,3,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,3,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,3,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,3,KML,Aluminum,Secondary,EPA 200.8,0.008,mg/L,0.05-0.2 mg/L,Yes
+2023,3,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,3,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,3,KML,Zinc,Secondary,EPA 200.8,0.187,mg/L,5 mg/L,Yes
+2023,3,MB,Barium,Primary,EPA 200.8,0.043,mg/L,2 mg/L,Yes
+2023,3,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,3,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,3,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,3,MB,Aluminum,Secondary,EPA 200.8,0.02,mg/L,0.05-0.2 mg/L,Yes
+2023,3,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,3,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,3,MB,Zinc,Secondary,EPA 200.8,0.215,mg/L,5 mg/L,Yes
+2023,4,KML,Barium,Primary,EPA 200.8,0.028,mg/L,2 mg/L,Yes
+2023,4,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,4,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,4,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,4,KML,Aluminum,Secondary,EPA 200.8,0.01,mg/L,0.05-0.2 mg/L,Yes
+2023,4,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,4,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,4,KML,Zinc,Secondary,EPA 200.8,0.203,mg/L,5 mg/L,Yes
+2023,4,MB,Barium,Primary,EPA 200.8,0.026,mg/L,2 mg/L,Yes
+2023,4,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2023,4,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2023,4,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2023,4,MB,Aluminum,Secondary,EPA 200.8,0.019,mg/L,0.05-0.2 mg/L,Yes
+2023,4,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2023,4,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2023,4,MB,Zinc,Secondary,EPA 200.8,0.237,mg/L,5 mg/L,Yes
+2024,1,KML,Barium,Primary,EPA 200.8,0.025,mg/L,2 mg/L,Yes
+2024,1,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2024,1,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2024,1,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2024,1,KML,Aluminum,Secondary,EPA 200.8,0.062,mg/L,0.05-0.2 mg/L,Yes
+2024,1,KML,Iron,Secondary,EPA 200.8,0.036,mg/L,0.3 mg/L,Yes
+2024,1,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2024,1,KML,Zinc,Secondary,EPA 200.8,0.171,mg/L,5 mg/L,Yes
+2024,1,MB,Barium,Primary,EPA 200.8,0.023,mg/L,2 mg/L,Yes
+2024,1,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2024,1,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2024,1,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2024,1,MB,Aluminum,Secondary,EPA 200.8,0.024,mg/L,0.05-0.2 mg/L,Yes
+2024,1,MB,Iron,Secondary,EPA 200.8,0.013,mg/L,0.3 mg/L,Yes
+2024,1,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2024,1,MB,Zinc,Secondary,EPA 200.8,0.273,mg/L,5 mg/L,Yes
+2024,2,KML,Barium,Primary,EPA 200.8,0.03,mg/L,2 mg/L,Yes
+2024,2,KML,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2024,2,KML,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2024,2,KML,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2024,2,KML,Aluminum,Secondary,EPA 200.8,0.009,mg/L,0.05-0.2 mg/L,Yes
+2024,2,KML,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2024,2,KML,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2024,2,KML,Zinc,Secondary,EPA 200.8,0.532,mg/L,5 mg/L,Yes
+2024,2,MB,Barium,Primary,EPA 200.8,0.029,mg/L,2 mg/L,Yes
+2024,2,MB,Copper,Primary,EPA 200.8,<0.025,mg/L,1.3 mg/L,Yes
+2024,2,MB,Lead,Primary,EPA 200.8,<0.0025,mg/L,0.015 mg/L,Yes
+2024,2,MB,Mercury,Primary,EPA 200.8,<0.0002,mg/L,0.002 mg/L,Yes
+2024,2,MB,Aluminum,Secondary,EPA 200.8,0.023,mg/L,0.05-0.2 mg/L,Yes
+2024,2,MB,Iron,Secondary,EPA 200.8,<0.01,mg/L,0.3 mg/L,Yes
+2024,2,MB,Manganese,Secondary,EPA 200.8,<0.005,mg/L,0.05 mg/L,Yes
+2024,2,MB,Zinc,Secondary,EPA 200.8,0.166,mg/L,5 mg/L,Yes
+2021,1,KML,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,1,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.43,mg/L,10 mg/L,Yes
+2021,1,KML,Chloride,Secondary,EPA 300.0,14,mg/L,250 mg/L,Yes
+2021,1,KML,Foaming Agents,Secondary,Hach Crystal Violet,0.009,mg/L,0.5 mg/L,Yes
+2021,1,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,96,mg/L,500 mg/L,Yes
+2021,1,MB,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,1,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.43,mg/L,10 mg/L,Yes
+2021,1,MB,Chloride,Secondary,EPA 300.0,14,mg/L,250 mg/L,Yes
+2021,1,MB,Foaming Agents,Secondary,Hach Crystal Violet,0.013,mg/L,0.5 mg/L,Yes
+2021,1,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,95.3,mg/L,500 mg/L,Yes
+2021,2,KML,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,2,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.18,mg/L,10 mg/L,Yes
+2021,2,KML,Chloride,Secondary,EPA 300.0,16,mg/L,250 mg/L,Yes
+2021,2,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,93.3,mg/L,500 mg/L,Yes
+2021,2,MB,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,2,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.15,mg/L,10 mg/L,Yes
+2021,2,MB,Chloride,Secondary,EPA 300.0,14,mg/L,250 mg/L,Yes
+2021,2,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,89.3,mg/L,500 mg/L,Yes
+2021,3,KML,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,3,KML,Gross Alpha Activity,Primary,EPA 900.0,<3,pCi/L,15 pCi/L,Yes
+2021,3,KML,Gross Beta Activity,Primary,EPA 900.0,<3,pCi/L,50 pCi/L,Yes
+2021,3,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.25,mg/L,10 mg/L,Yes
+2021,3,KML,Radium 226,Primary,Ra-226 GA,<1,pCi/L,5 pCi/L,Yes
+2021,3,KML,Radium 228,Primary,Ra-228 GA,<1,pCi/L,5 pCi/L,Yes
+2021,3,KML,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2021,3,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,97.3,mg/L,500 mg/L,Yes
+2021,3,MB,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2021,3,MB,Gross Alpha Activity,Primary,EPA 900.0,<3,pCi/L,15 pCi/L,Yes
+2021,3,MB,Gross Beta Activity,Primary,EPA 900.0,<3,pCi/L,50 pCi/L,Yes
+2021,3,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.24,mg/L,10 mg/L,Yes
+2021,3,MB,Radium 226,Primary,Ra-226 GA,<1,pCi/L,5 pCi/L,Yes
+2021,3,MB,Radium 228,Primary,Ra-228 GA,<1,pCi/L,5 pCi/L,Yes
+2021,3,MB,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2021,3,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,98,mg/L,500 mg/L,Yes
+2021,4,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.05,mg/L,10 mg/L,Yes
+2021,4,KML,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2021,4,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,101.3,mg/L,500 mg/L,Yes
+2021,4,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.08,mg/L,10 mg/L,Yes
+2021,4,MB,Chloride,Secondary,EPA 300.0,16,mg/L,250 mg/L,Yes
+2021,4,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,104.7,mg/L,500 mg/L,Yes
+2022,1,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.03,mg/L,10 mg/L,Yes
+2022,1,KML,Chloride,Secondary,EPA 300.0,13,mg/L,250 mg/L,Yes
+2022,1,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,92,mg/L,500 mg/L,Yes
+2022,1,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.04,mg/L,10 mg/L,Yes
+2022,1,MB,Chloride,Secondary,EPA 300.0,13,mg/L,250 mg/L,Yes
+2022,1,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,106,mg/L,500 mg/L,Yes
+2022,2,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.13,mg/L,10 mg/L,Yes
+2022,2,KML,Chloride,Secondary,EPA 300.0,14,mg/L,250 mg/L,Yes
+2022,2,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,84.7,mg/L,500 mg/L,Yes
+2022,2,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.12,mg/L,10 mg/L,Yes
+2022,2,MB,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2022,2,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,101,mg/L,500 mg/L,Yes
+2022,3,KML,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2022,3,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.22,mg/L,10 mg/L,Yes
+2022,3,KML,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2022,3,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,127.3,mg/L,500 mg/L,Yes
+2022,3,MB,"2,3,7,8-TCDD",Primary,EPA 1613B,<5,pg/L,30 pg/L,Yes
+2022,3,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.24,mg/L,10 mg/L,Yes
+2022,3,MB,Chloride,Secondary,EPA 300.0,18,mg/L,250 mg/L,Yes
+2022,3,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,132,mg/L,500 mg/L,Yes
+2022,4,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.1,mg/L,10 mg/L,Yes
+2022,4,KML,Chloride,Secondary,EPA 300.0,16,mg/L,250 mg/L,Yes
+2022,4,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,119.3,mg/L,500 mg/L,Yes
+2022,4,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.09,mg/L,10 mg/L,Yes
+2022,4,MB,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2022,4,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,123.3,mg/L,500 mg/L,Yes
+2023,1,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.03,mg/L,10 mg/L,Yes
+2023,1,KML,Chloride,Secondary,EPA 300.0,16,mg/L,250 mg/L,Yes
+2023,1,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,119,mg/L,500 mg/L,Yes
+2023,1,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.03,mg/L,10 mg/L,Yes
+2023,1,MB,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2023,1,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,124,mg/L,500 mg/L,Yes
+2023,2,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.13,mg/L,10 mg/L,Yes
+2023,2,KML,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2023,2,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,115,mg/L,500 mg/L,Yes
+2023,2,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.11,mg/L,10 mg/L,Yes
+2023,2,MB,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2023,2,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,115,mg/L,500 mg/L,Yes
+2023,3,KML,"2,3,7,8-TCDD",Primary,EPA 1613B,<4.8,pg/L,30 pg/L,Yes
+2023,3,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.25,mg/L,10 mg/L,Yes
+2023,3,KML,Chloride,Secondary,EPA 300.0,18,mg/L,250 mg/L,Yes
+2023,3,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,127,mg/L,500 mg/L,Yes
+2023,3,MB,"2,3,7,8-TCDD",Primary,EPA 1613B,<4.8,pg/L,30 pg/L,Yes
+2023,3,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.3,mg/L,10 mg/L,Yes
+2023,3,MB,Chloride,Secondary,EPA 300.0,18,mg/L,250 mg/L,Yes
+2023,3,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,126,mg/L,500 mg/L,Yes
+2023,4,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.04,mg/L,10 mg/L,Yes
+2023,4,KML,Chloride,Secondary,EPA 300.0,14,mg/L,250 mg/L,Yes
+2023,4,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,127,mg/L,500 mg/L,Yes
+2023,4,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.05,mg/L,10 mg/L,Yes
+2023,4,MB,Chloride,Secondary,EPA 300.0,16,mg/L,250 mg/L,Yes
+2023,4,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,123,mg/L,500 mg/L,Yes
+2024,1,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.02,mg/L,10 mg/L,Yes
+2024,1,KML,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2024,1,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,117,mg/L,500 mg/L,Yes
+2024,1,MB,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.03,mg/L,10 mg/L,Yes
+2024,1,MB,Chloride,Secondary,EPA 300.0,15,mg/L,250 mg/L,Yes
+2024,1,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,101,mg/L,500 mg/L,Yes
+2024,2,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.1,mg/L,10 mg/L,Yes
+2024,2,KML,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2024,2,KML,"Solids, Total Dissolved",Secondary,SM 2540 C,106,mg/L,500 mg/L,Yes
+2024,2,KML,"Nitrate/Nitrite-N, Total",Primary,SM 4500-NO3- F,0.09,mg/L,10 mg/L,Yes
+2024,2,MB,Chloride,Secondary,EPA 300.0,17,mg/L,250 mg/L,Yes
+2024,2,MB,"Solids, Total Dissolved",Secondary,SM 2540 C,113,mg/L,500 mg/L,Yes
+2021,1,KML,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,1,KML,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,1,KML,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,1,KML,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,1,KML,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,1,KML,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,1,KML,HAA5 Compliance,Primary,SM 6251B,33.1,µg/L,60 µg/L,Yes
+2021,1,KML,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,1,KML,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,1,KML,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,1,KML,TTHM Compliance,Primary,EPA 524.2,51,µg/L,80 µg/L,Yes
+2021,1,KML,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,1,MB,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,1,MB,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,1,MB,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,1,MB,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,1,MB,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,1,MB,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,1,MB,HAA5 Compliance,Primary,SM 6251B,33.1,µg/L,60 µg/L,Yes
+2021,1,MB,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,1,MB,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,1,MB,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,1,MB,TTHM Compliance,Primary,EPA 524.2,51,µg/L,80 µg/L,Yes
+2021,1,MB,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,2,KML,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,2,KML,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,2,KML,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,2,KML,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,2,KML,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,2,KML,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,2,KML,HAA5 Compliance,Primary,SM 6251B,35.3,µg/L,60 µg/L,Yes
+2021,2,KML,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,2,KML,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,2,KML,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,2,KML,TTHM Compliance,Primary,EPA 524.2,52.4,µg/L,80 µg/L,Yes
+2021,2,KML,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,2,MB,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,2,MB,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,2,MB,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,2,MB,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,2,MB,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,2,MB,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,2,MB,HAA5 Compliance,Primary,SM 6251B,35.3,µg/L,60 µg/L,Yes
+2021,2,MB,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,2,MB,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,2,MB,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,2,MB,TTHM Compliance,Primary,EPA 524.2,52.4,µg/L,80 µg/L,Yes
+2021,2,MB,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,3,KML,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,3,KML,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,3,KML,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,3,KML,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,3,KML,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,3,KML,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,3,KML,HAA5 Compliance,Primary,SM 6251B,36.3,µg/L,60 µg/L,Yes
+2021,3,KML,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,3,KML,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,3,KML,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,3,KML,TTHM Compliance,Primary,EPA 524.2,52.4,µg/L,80 µg/L,Yes
+2021,3,KML,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,3,MB,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2021,3,MB,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2021,3,MB,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2021,3,MB,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2021,3,MB,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2021,3,MB,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2021,3,MB,HAA5 Compliance,Primary,SM 6251B,36.3,µg/L,60 µg/L,Yes
+2021,3,MB,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2021,3,MB,PCB 1016,Primary,EPA 505,<0.08,µg/L,0.5 µg/L,Yes
+2021,3,MB,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2021,3,MB,TTHM Compliance,Primary,EPA 524.2,52.4,µg/L,80 µg/L,Yes
+2021,3,MB,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2021,4,KML,HAA5 Compliance,Primary,EPA 552.2,35.6,µg/L,60 µg/L,Yes
+2021,4,KML,TTHM Compliance,Primary,EPA 524.2,49.2,µg/L,80 µg/L,Yes
+2021,4,MB,HAA5 Compliance,Primary,EPA 552.2,35.6,µg/L,60 µg/L,Yes
+2021,4,MB,TTHM Compliance,Primary,EPA 524.2,49.2,µg/L,80 µg/L,Yes
+2022,1,KML,HAA5 Compliance,Primary,SM 6251B,29.9,µg/L,60 µg/L,Yes
+2022,1,KML,TTHM Compliance,Primary,EPA 524.2,44.2,µg/L,80 µg/L,Yes
+2022,1,MB,HAA5 Compliance,Primary,SM 6251B,29.9,µg/L,60 µg/L,Yes
+2022,1,MB,TTHM Compliance,Primary,EPA 524.2,44.2,µg/L,80 µg/L,Yes
+2022,2,KML,HAA5 Compliance,Primary,SM 6251B,24.5,µg/L,60 µg/L,Yes
+2022,2,KML,TTHM Compliance,Primary,EPA 524.2,42.6,µg/L,80 µg/L,Yes
+2022,2,MB,HAA5 Compliance,Primary,SM 6251B,24.5,µg/L,60 µg/L,Yes
+2022,2,MB,TTHM Compliance,Primary,EPA 524.2,42.6,µg/L,80 µg/L,Yes
+2022,3,KML,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2022,3,KML,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2022,3,KML,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2022,3,KML,Diquat,Primary,EPA 549.2,<0.41,µg/L,20 µg/L,Yes
+2022,3,KML,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2022,3,KML,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2022,3,KML,HAA5 Compliance,Primary,SM 6251B,24,µg/L,60 µg/L,Yes
+2022,3,KML,Methoxychlor,Primary,EPA 505,<0.051,µg/L,40 µg/L,Yes
+2022,3,KML,PCB 1016,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2022,3,KML,PCB 1260,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2022,3,KML,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2022,3,KML,Toxaphene,Primary,EPA 505,<0.51,µg/L,3 µg/L,Yes
+2022,3,KML,TTHM Compliance,Primary,EPA 524.2,39.9,µg/L,80 µg/L,Yes
+2022,3,KML,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2022,3,MB,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2022,3,MB,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2022,3,MB,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2022,3,MB,Diquat,Primary,EPA 549.2,<0.39,µg/L,20 µg/L,Yes
+2022,3,MB,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2022,3,MB,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2022,3,MB,HAA5 Compliance,Primary,SM 6251B,24,µg/L,60 µg/L,Yes
+2022,3,MB,Methoxychlor,Primary,EPA 505,<0.051,µg/L,40 µg/L,Yes
+2022,3,MB,PCB 1016,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2022,3,MB,PCB 1260,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2022,3,MB,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2022,3,MB,Toxaphene,Primary,EPA 505,<0.51,µg/L,3 µg/L,Yes
+2022,3,MB,TTHM Compliance,Primary,EPA 524.2,39.9,µg/L,80 µg/L,Yes
+2022,3,MB,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2022,4,KML,HAA5 Compliance,Primary,EPA 552.2,39.7,µg/L,60 µg/L,Yes
+2022,4,KML,TTHM Compliance,Primary,EPA 524.2,22.6,µg/L,80 µg/L,Yes
+2022,4,MB,HAA5 Compliance,Primary,EPA 552.2,39.7,µg/L,60 µg/L,Yes
+2022,4,MB,TTHM Compliance,Primary,EPA 524.2,22.6,µg/L,80 µg/L,Yes
+2023,1,KML,HAA5 Compliance,Primary,EPA 552.2,22.1,µg/L,60 µg/L,Yes
+2023,1,KML,TTHM Compliance,Primary,EPA 524.2,39.7,µg/L,80 µg/L,Yes
+2023,1,MB,HAA5 Compliance,Primary,EPA 552.2,22.1,µg/L,60 µg/L,Yes
+2023,1,MB,TTHM Compliance,Primary,EPA 524.2,39.7,µg/L,80 µg/L,Yes
+2023,2,KML,HAA5 Compliance,Primary,EPA 552.2,24,µg/L,60 µg/L,Yes
+2023,2,KML,TTHM Compliance,Primary,EPA 524.2,39.8,µg/L,80 µg/L,Yes
+2023,2,MB,HAA5 Compliance,Primary,EPA 552.2,24,µg/L,60 µg/L,Yes
+2023,2,MB,TTHM Compliance,Primary,EPA 524.2,39.8,µg/L,80 µg/L,Yes
+2023,3,KML,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2023,3,KML,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2023,3,KML,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2023,3,KML,Diquat,Primary,EPA 549.2,<0.39,µg/L,20 µg/L,Yes
+2023,3,KML,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2023,3,KML,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2023,3,KML,HAA5 Compliance,Primary,EPA 552.2,25.2,µg/L,60 µg/L,Yes
+2023,3,KML,Methoxychlor,Primary,EPA 505,<0.05,µg/L,40 µg/L,Yes
+2023,3,KML,PCB 1016,Primary,EPA 505,<0.07,µg/L,0.5 µg/L,Yes
+2023,3,KML,PCB 1260,Primary,EPA 505,<0.07,µg/L,0.5 µg/L,Yes
+2023,3,KML,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2023,3,KML,TTHM Compliance,Primary,EPA 524.2,39.4,µg/L,80 µg/L,Yes
+2023,3,KML,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2023,3,MB,"2,4,5-TP",Primary,EPA 515.4,<0.2,µg/L,50 µg/L,Yes
+2023,3,MB,Dalapon,Primary,EPA 515.4,<1,µg/L,200 µg/L,Yes
+2023,3,MB,Dinoseb,Primary,EPA 515.4,<0.2,µg/L,7 µg/L,Yes
+2023,3,MB,Diquat,Primary,EPA 549.2,<0.4,µg/L,20 µg/L,Yes
+2023,3,MB,Endothall,Primary,EPA 548.1,<5,µg/L,100 µg/L,Yes
+2023,3,MB,Glyphosate,Primary,EPA 547,<6,µg/L,700 µg/L,Yes
+2023,3,MB,HAA5 Compliance,Primary,EPA 552.2,25.2,µg/L,60 µg/L,Yes
+2023,3,MB,Methoxychlor,Primary,EPA 505,<0.051,µg/L,40 µg/L,Yes
+2023,3,MB,PCB 1016,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2023,3,MB,PCB 1260,Primary,EPA 505,<0.071,µg/L,0.5 µg/L,Yes
+2023,3,MB,Pentachlorophenol,Primary,EPA 515.4,<0.04,µg/L,1 µg/L,Yes
+2023,3,MB,Toxaphene,Primary,EPA 505,<0.51,µg/L,3 µg/L,Yes
+2023,3,MB,TTHM Compliance,Primary,EPA 524.2,39.4,µg/L,80 µg/L,Yes
+2023,3,MB,Vinyl Chloride,Primary,EPA 524.2,<0.3,µg/L,2 µg/L,Yes
+2023,4,KML,HAA5 Compliance,Primary,EPA 552.2,25.7,µg/L,60 µg/L,Yes
+2023,4,KML,TTHM Compliance,Primary,EPA 524.2,38.6,µg/L,80 µg/L,Yes
+2023,4,MB,HAA5 Compliance,Primary,EPA 552.2,25.7,µg/L,60 µg/L,Yes
+2023,4,MB,TTHM Compliance,Primary,EPA 524.2,38.6,µg/L,80 µg/L,Yes
+2024,1,KML,HAA5 Compliance,Primary,EPA 552.2,25.1,µg/L,60 µg/L,Yes
+2024,1,KML,TTHM Compliance,Primary,EPA 524.2,35.6,µg/L,80 µg/L,Yes
+2024,1,MB,HAA5 Compliance,Primary,EPA 552.2,25.1,µg/L,60 µg/L,Yes
+2024,1,MB,TTHM Compliance,Primary,EPA 524.2,35.6,µg/L,80 µg/L,Yes
+2024,2,KML,HAA5 Compliance,Primary,SM 6251B,39,µg/L,60 µg/L,Yes
+2024,2,KML,TTHM Compliance,Primary,EPA 524.2,26.8,µg/L,80 µg/L,Yes
+2024,2,MB,HAA5 Compliance,Primary,SM 6251B,39,µg/L,60 µg/L,Yes
+2024,2,MB,TTHM Compliance,Primary,EPA 524.2,26.8,µg/L,80 µg/L,Yes
+2021,1,KML,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,1,KML,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,1,KML,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,1,KML,Simazine,Primary,EPA 525.2,<0.07,µg/L,4 µg/L,Yes
+2021,1,MB,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,1,MB,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,1,MB,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,1,MB,Simazine,Primary,EPA 525.2,<0.07,µg/L,4 µg/L,Yes
+2021,2,KML,Atrazine,Primary,EPA 525.2,<0.05,µg/L,3 µg/L,Yes
+2021,2,KML,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,2,KML,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,2,KML,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,2,KML,Hexachlorobenzene,Primary,EPA 525.2,<0.05,µg/L,1 µg/L,Yes
+2021,2,KML,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.05,µg/L,50 µg/L,Yes
+2021,2,KML,Simazine,Primary,EPA 525.2,<0.05,µg/L,4 µg/L,Yes
+2021,2,MB,Atrazine,Primary,EPA 525.2,<0.05,µg/L,3 µg/L,Yes
+2021,2,MB,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,2,MB,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,2,MB,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,2,MB,Hexachlorobenzene,Primary,EPA 525.2,<0.05,µg/L,1 µg/L,Yes
+2021,2,MB,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.05,µg/L,50 µg/L,Yes
+2021,2,MB,Simazine,Primary,EPA 525.2,<0.05,µg/L,4 µg/L,Yes
+2021,3,KML,Atrazine,Primary,EPA 525.2,0.071,µg/L,3 µg/L,Yes
+2021,3,KML,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,3,KML,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,3,KML,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,3,KML,Hexachlorobenzene,Primary,EPA 525.2,<0.05,µg/L,1 µg/L,Yes
+2021,3,KML,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.05,µg/L,50 µg/L,Yes
+2021,3,KML,Simazine,Primary,EPA 525.2,<0.05,µg/L,4 µg/L,Yes
+2021,3,MB,Atrazine,Primary,EPA 525.2,0.081,µg/L,3 µg/L,Yes
+2021,3,MB,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2021,3,MB,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.6,µg/L,400 µg/L,Yes
+2021,3,MB,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.6,µg/L,6 µg/L,Yes
+2021,3,MB,Hexachlorobenzene,Primary,EPA 525.2,<0.05,µg/L,1 µg/L,Yes
+2021,3,MB,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.05,µg/L,50 µg/L,Yes
+2021,3,MB,Simazine,Primary,EPA 525.2,<0.05,µg/L,4 µg/L,Yes
+2022,3,KML,Atrazine,Primary,EPA 525.2,<0.05,µg/L,3 µg/L,Yes
+2022,3,KML,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2022,3,KML,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.59,µg/L,400 µg/L,Yes
+2022,3,KML,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.59,µg/L,6 µg/L,Yes
+2022,3,KML,Hexachlorobenzene,Primary,EPA 525.2,<0.05,µg/L,1 µg/L,Yes
+2022,3,KML,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.05,µg/L,50 µg/L,Yes
+2022,3,KML,Simazine,Primary,EPA 525.2,<0.05,µg/L,4 µg/L,Yes
+2022,3,MB,Atrazine,Primary,EPA 525.2,<0.049,µg/L,3 µg/L,Yes
+2022,3,MB,Benzo(a)pyrene,Primary,EPA 525.2,<0.02,µg/L,0.2 µg/L,Yes
+2022,3,MB,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.59,µg/L,400 µg/L,Yes
+2022,3,MB,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.59,µg/L,6 µg/L,Yes
+2022,3,MB,Hexachlorobenzene,Primary,EPA 525.2,<0.049,µg/L,1 µg/L,Yes
+2022,3,MB,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.049,µg/L,50 µg/L,Yes
+2022,3,MB,Simazine,Primary,EPA 525.2,<0.049,µg/L,4 µg/L,Yes
+2023,3,KML,Atrazine,Primary,EPA 525.2,<0.048,µg/L,3 µg/L,Yes
+2023,3,KML,Benzo(a)pyrene,Primary,EPA 525.2,<0.019,µg/L,0.2 µg/L,Yes
+2023,3,KML,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.58,µg/L,400 µg/L,Yes
+2023,3,KML,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.58,µg/L,6 µg/L,Yes
+2023,3,KML,Hexachlorobenzene,Primary,EPA 525.2,<0.048,µg/L,1 µg/L,Yes
+2023,3,KML,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.048,µg/L,50 µg/L,Yes
+2023,3,KML,Simazine,Primary,EPA 525.2,<0.048,µg/L,4 µg/L,Yes
+2023,3,MB,Atrazine,Primary,EPA 525.2,<0.048,µg/L,3 µg/L,Yes
+2023,3,MB,Benzo(a)pyrene,Primary,EPA 525.2,<0.019,µg/L,0.2 µg/L,Yes
+2023,3,MB,Di(2-ethylhexyl)adipate,Primary,EPA 525.2,<0.58,µg/L,400 µg/L,Yes
+2023,3,MB,Di(2-ethylhexyl)phthalate,Primary,EPA 525.2,<0.58,µg/L,6 µg/L,Yes
+2023,3,MB,Hexachlorobenzene,Primary,EPA 525.2,<0.048,µg/L,1 µg/L,Yes
+2023,3,MB,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.048,µg/L,50 µg/L,Yes
+2023,3,MB,Simazine,Primary,EPA 525.2,<0.048,µg/L,4 µg/L,Yes
+2021,1,KML,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,KML,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,1,KML,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,1,KML,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,1,KML,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,KML,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,1,MB,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,MB,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,1,MB,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,1,MB,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,1,MB,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,MB,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,1,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,2,KML,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,KML,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,2,KML,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,2,KML,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,2,KML,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,KML,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,2,MB,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,MB,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,2,MB,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,2,MB,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,2,MB,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,MB,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,2,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,3,KML,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,KML,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,3,KML,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,3,KML,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,3,KML,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,KML,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,3,MB,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,MB,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2021,3,MB,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2021,3,MB,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2021,3,MB,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,MB,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2021,3,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,4,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,4,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,1,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,1,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,2,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,2,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,3,KML,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,KML,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2022,3,KML,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2022,3,KML,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2022,3,KML,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,KML,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,3,MB,Dibromochloropropane,Primary,EPA 551.1,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,MB,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2022,3,MB,Ethylene dibromide,Primary,EPA 551.1,<0.01,µg/L,0.05 µg/L,Yes
+2022,3,MB,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2022,3,MB,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,MB,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2022,3,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,4,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2022,4,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,1,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,1,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,2,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,2,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,3,KML,Dibromochloropropane,Primary,EPA 504.1,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,KML,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2023,3,KML,Ethylene dibromide,Primary,EPA 504.1,<0.01,µg/L,0.05 µg/L,Yes
+2023,3,KML,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2023,3,KML,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,KML,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,3,MB,Dibromochloropropane,Primary,EPA 504.1,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,MB,Endrin,Primary,EPA 505,<0.01,µg/L,2 µg/L,Yes
+2023,3,MB,Ethylene dibromide,Primary,EPA 504.1,<0.01,µg/L,0.05 µg/L,Yes
+2023,3,MB,Heptachlor,Primary,EPA 505,<0.01,µg/L,0.4 µg/L,Yes
+2023,3,MB,Heptachlor epoxide,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,MB,Lindane,Primary,EPA 505,<0.01,µg/L,0.2 µg/L,Yes
+2023,3,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,4,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2023,4,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2024,1,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2024,1,MB,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2024,2,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2024,2,KML,Nitrite-N,Primary,SM 4500-NO3- F,<0.01,mg/L,1 mg/L,Yes
+2021,1,KML,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,1,KML,Alachlor,Primary,EPA 525.2,<0.1,µg/L,2 µg/L,Yes
+2021,1,KML,Atrazine,Primary,EPA 525.2,<0.1,µg/L,3 µg/L,Yes
+2021,1,KML,Hexachlorobenzene,Primary,EPA 525.2,<0.1,µg/L,1 µg/L,Yes
+2021,1,KML,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.1,µg/L,50 µg/L,Yes
+2021,1,KML,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,1,MB,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,1,MB,Alachlor,Primary,EPA 525.2,<0.1,µg/L,2 µg/L,Yes
+2021,1,MB,Atrazine,Primary,EPA 525.2,<0.1,µg/L,3 µg/L,Yes
+2021,1,MB,Hexachlorobenzene,Primary,EPA 525.2,<0.1,µg/L,1 µg/L,Yes
+2021,1,MB,Hexachlorocyclopentadiene,Primary,EPA 525.2,<0.1,µg/L,50 µg/L,Yes
+2021,1,MB,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,2,KML,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,2,KML,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,2,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,2,MB,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,2,MB,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,2,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,3,KML,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,3,KML,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,3,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,3,MB,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2021,3,MB,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2021,3,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,4,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,4,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,1,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,1,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,2,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,2,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,3,KML,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2022,3,KML,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2022,3,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,3,MB,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2022,3,MB,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2022,3,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,4,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2022,4,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,1,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,1,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,2,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,2,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,3,KML,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2023,3,KML,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2023,3,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,3,MB,"2,4-D",Primary,EPA 515.4,<0.1,µg/L,70 µg/L,Yes
+2023,3,MB,Picloram,Primary,EPA 515.4,<0.1,µg/L,500 µg/L,Yes
+2023,3,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,4,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2023,4,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2024,1,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2024,1,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2024,2,KML,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2024,2,MB,Foaming Agents,Secondary,HACH TNT 874,<0.1,mg/L,0.5 mg/L,Yes
+2021,1,KML,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,1,KML,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,1,MB,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,MB,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,2,KML,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,2,KML,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,KML,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,2,MB,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,2,MB,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,2,MB,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,3,KML,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,3,KML,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,KML,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,3,MB,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2021,3,MB,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,3,MB,PCB 1260,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,KML,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2022,3,KML,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2022,3,KML,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,KML,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,KML,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,KML,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,KML,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,MB,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2022,3,MB,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2022,3,MB,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,MB,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,MB,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,MB,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2022,3,MB,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,KML,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2023,3,KML,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2023,3,KML,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,KML,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,KML,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,KML,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,KML,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,MB,Alachlor,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2023,3,MB,Chlordane,Primary,EPA 505,<0.1,µg/L,2 µg/L,Yes
+2023,3,MB,PCB 1221,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,MB,PCB 1232,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,MB,PCB 1242,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,MB,PCB 1248,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2023,3,MB,PCB 1254,Primary,EPA 505,<0.1,µg/L,0.5 µg/L,Yes
+2021,1,KML,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,KML,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,KML,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,KML,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,1,KML,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,1,KML,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2021,1,MB,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,MB,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,MB,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,1,MB,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,1,MB,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,1,MB,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2021,2,KML,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,KML,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,KML,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,KML,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,2,KML,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,2,KML,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2021,2,MB,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,MB,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,MB,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,2,MB,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,2,MB,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,2,MB,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2021,3,KML,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,KML,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,KML,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,KML,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,3,KML,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,3,KML,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2021,3,MB,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,MB,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,MB,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2021,3,MB,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2021,3,MB,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,3,MB,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2022,3,KML,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,KML,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,KML,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,KML,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2022,3,KML,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2022,3,MB,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,MB,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,MB,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2022,3,MB,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2022,3,MB,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2023,3,KML,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,KML,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,KML,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,KML,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2023,3,KML,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2023,3,KML,Toxaphene,Primary,EPA 505,<0.5,µg/L,3 µg/L,Yes
+2023,3,MB,Aldicarb,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,MB,Aldicarb sulfone,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,MB,Aldicarb sulfoxide,Primary,EPA 531.2,<0.5,µg/L,stayed,Yes
+2023,3,MB,Carbofuran,Primary,EPA 531.2,<0.5,µg/L,40 µg/L,Yes
+2023,3,MB,Oxamyl,Primary,EPA 531.2,<0.5,µg/L,200 µg/L,Yes
+2021,1,KML,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,1,KML,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,1,KML,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,1,KML,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,KML,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,1,KML,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,1,KML,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,1,KML,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,1,KML,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,KML,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,1,KML,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,KML,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,1,MB,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,1,MB,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,1,MB,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,1,MB,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,MB,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,1,MB,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,1,MB,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,1,MB,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,1,MB,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,MB,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,1,MB,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,1,MB,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,2,KML,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,2,KML,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,2,KML,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,2,KML,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,KML,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,2,KML,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,2,KML,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,2,KML,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,2,KML,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,KML,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,2,KML,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,KML,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,2,MB,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,2,MB,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,2,MB,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,2,MB,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,MB,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,2,MB,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,2,MB,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,2,MB,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,2,MB,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,MB,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,2,MB,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,2,MB,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,3,KML,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,3,KML,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,3,KML,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,3,KML,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,KML,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,3,KML,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,3,KML,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,3,KML,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,3,KML,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,KML,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,3,KML,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,KML,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,3,MB,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2021,3,MB,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2021,3,MB,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,3,MB,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,MB,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2021,3,MB,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2021,3,MB,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2021,3,MB,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2021,3,MB,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,MB,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2021,3,MB,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2021,3,MB,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2022,3,KML,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2022,3,KML,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2022,3,KML,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2022,3,KML,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,KML,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2022,3,KML,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2022,3,KML,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2022,3,KML,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2022,3,KML,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,KML,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2022,3,KML,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,KML,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2022,3,MB,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2022,3,MB,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2022,3,MB,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2022,3,MB,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,MB,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2022,3,MB,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2022,3,MB,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2022,3,MB,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2022,3,MB,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,MB,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2022,3,MB,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2022,3,MB,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2023,3,KML,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2023,3,KML,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2023,3,KML,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2023,3,KML,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,KML,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2023,3,KML,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2023,3,KML,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2023,3,KML,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2023,3,KML,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,KML,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2023,3,KML,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,KML,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2023,3,MB,"1,1,1-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,200 µg/L,Yes
+2023,3,MB,"1,1-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,7 µg/L,Yes
+2023,3,MB,"1,2,4-Trichlorobenzene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2023,3,MB,Chlorobenzene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,MB,"cis-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,70 µg/L,Yes
+2023,3,MB,Ethylbenzene,Primary,EPA 524.2,<0.5,µg/L,700 µg/L,Yes
+2023,3,MB,o-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,600 µg/L,Yes
+2023,3,MB,p-Dichlorobenzene,Primary,EPA 524.2,<0.5,µg/L,75 µg/L,Yes
+2023,3,MB,Styrene,Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,MB,Toluene,Primary,EPA 524.2,<0.5,µg/L,"1,000 µg/L",Yes
+2023,3,MB,"trans-1,2-Dichloroethylene",Primary,EPA 524.2,<0.5,µg/L,100 µg/L,Yes
+2023,3,MB,"Xylenes, Total",Primary,EPA 524.2,<0.5,µg/L,"10,000 µg/L",Yes
+2021,1,KML,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,MB,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,KML,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,2,MB,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,KML,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,3,MB,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,KML,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2022,3,MB,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,KML,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,"1,1,2-Trichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,"1,2-Dichloroethane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,"1,2-Dichloropropane",Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,Benzene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,Carbon Tetrachloride,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,Dichloromethane,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,Tetrachloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2023,3,MB,Trichloroethylene,Primary,EPA 524.2,<0.5,µg/L,5 µg/L,Yes
+2021,1,KML,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,1,1,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,1,2,2-Tetrachloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,1-Dichloroethane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,1-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,2,3-Trichlorobenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,2,3-Trichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,2,4-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,3,5-Trimethylbenzene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"1,3-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"2,2-Dichloropropane",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Bromobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Bromochloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Bromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Chloroethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Chloromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"cis-1,3-Dichloropropene",Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Dibromomethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Dichlorodifluoromethane,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Hexachlorobutadiene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Isopropylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,m-Dichlorobenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,MTBE,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Naphthalene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,n-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,n-Propylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,o-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,p-Chlorotoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,p-Isopropyltoluene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,sec-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,tert-Butylbenzene,Monitored,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Bromoethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Carbon disulfide,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"m,p-Xylenes",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,o-Xylene,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,"trans-1,3-Dichloropropene",Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Trichlorofluoromethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Trichlorotrifluoroethane,Unregulated,EPA 524.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,KML,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,KML,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,KML,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,MB,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,MB,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,MB,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,1,MB,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,KML,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,KML,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,KML,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,KML,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,MB,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,2,MB,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,MB,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,2,MB,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,KML,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,KML,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,KML,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,KML,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,"3,5-Dichlorobenzoic acid",Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,MB,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,3,MB,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,MB,Dichlorprop,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2021,3,MB,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Perchlorate,Monitored,EPA 331.0,<0.5,µg/L,N/A,N/A
+2022,3,KML,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,KML,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2022,3,KML,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Perchlorate,Monitored,EPA 331.0,<0.5,µg/L,N/A,N/A
+2022,3,MB,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2022,3,MB,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2022,3,MB,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Perchlorate,Monitored,EPA 331.0,<0.5,µg/L,N/A,N/A
+2023,3,KML,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,KML,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2023,3,KML,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,3-Hydroxycarbofuran,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Carbaryl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Methomyl,Monitored,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Perchlorate,Monitored,EPA 331.0,<0.5,µg/L,N/A,N/A
+2023,3,MB,Baygon,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2023,3,MB,Bentazon,Unregulated,EPA 515.4,<0.5,µg/L,N/A,N/A
+2023,3,MB,Methiocarb,Unregulated,EPA 531.2,<0.5,µg/L,N/A,N/A
+2021,1,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,2,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,3,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,4,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,1,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,1,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,1,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,1,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,1,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,2,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,3,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,4,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,4,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,4,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,4,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2022,4,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,1,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,1,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,1,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,1,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,1,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,2,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,3,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2023,4,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,1,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,1,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,1,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,1,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,KML,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,KML,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,KML,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,MB,Molybdenum,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,MB,Nickel,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2024,2,MB,Vanadium,Unregulated,EPA 200.8,<0.002,mg/L,N/A,N/A
+2021,1,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,1,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,2,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,2,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,3,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,3,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,4,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,4,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2022,1,KML,Boron,Unregulated,EPA 200.7,0.062,mg/L,N/A,N/A
+2022,1,MB,Boron,Unregulated,EPA 200.7,0.059,mg/L,N/A,N/A
+2022,1,MB,Nickel,Unregulated,EPA 200.8,0.003,mg/L,N/A,N/A
+2022,2,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2022,2,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2022,3,KML,Boron,Unregulated,EPA 200.7,0.052,mg/L,N/A,N/A
+2022,3,MB,Boron,Unregulated,EPA 200.7,0.058,mg/L,N/A,N/A
+2022,4,KML,Boron,Unregulated,EPA 200.7,0.058,mg/L,N/A,N/A
+2022,4,KML,Nickel,Unregulated,EPA 200.8,0.002,mg/L,N/A,N/A
+2022,4,MB,Boron,Unregulated,EPA 200.7,0.057,mg/L,N/A,N/A
+2023,1,KML,Boron,Unregulated,EPA 200.7,0.058,mg/L,N/A,N/A
+2023,1,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2023,1,MB,Nickel,Unregulated,EPA 200.8,0.004,mg/L,N/A,N/A
+2023,2,KML,Boron,Unregulated,EPA 200.7,0.068,mg/L,N/A,N/A
+2023,2,MB,Boron,Unregulated,EPA 200.7,0.064,mg/L,N/A,N/A
+2023,3,KML,Boron,Unregulated,EPA 200.7,0.054,mg/L,N/A,N/A
+2023,3,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2023,4,KML,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2023,4,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2024,1,KML,Boron,Unregulated,EPA 200.7,0.056,mg/L,N/A,N/A
+2024,1,KML,Nickel,Unregulated,EPA 200.8,0.004,mg/L,N/A,N/A
+2024,1,MB,Boron,Unregulated,EPA 200.7,0.05,mg/L,N/A,N/A
+2024,1,MB,Nickel,Unregulated,EPA 200.8,0.003,mg/L,N/A,N/A
+2024,2,KML,Boron,Unregulated,EPA 200.7,0.055,mg/L,N/A,N/A
+2024,2,MB,Boron,Unregulated,EPA 200.7,<0.05,mg/L,N/A,N/A
+2021,1,KML,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,1,KML,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,1,KML,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,1,KML,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,1,KML,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,1,KML,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,1,KML,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,1,KML,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,1,KML,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,1,KML,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,1,KML,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,1,KML,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,KML,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,1,KML,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,KML,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,KML,Thiobencarb,Unregulated,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,1,MB,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,1,MB,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,1,MB,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,1,MB,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,1,MB,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,1,MB,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,1,MB,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,1,MB,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,1,MB,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,1,MB,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,1,MB,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,1,MB,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,MB,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,1,MB,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,MB,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,1,MB,Thiobencarb,Unregulated,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,2,KML,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,2,KML,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,2,KML,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,2,KML,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,2,KML,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,2,KML,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,2,KML,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,2,KML,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,2,KML,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,2,KML,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,2,KML,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,2,KML,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,KML,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,2,KML,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,KML,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,KML,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2021,2,MB,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,2,MB,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,2,MB,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,2,MB,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,2,MB,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,2,MB,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,2,MB,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,2,MB,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,2,MB,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,2,MB,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,2,MB,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,2,MB,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,MB,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,2,MB,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,MB,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,2,MB,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2021,3,KML,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,3,KML,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,3,KML,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,3,KML,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,3,KML,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,3,KML,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,3,KML,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,3,KML,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,3,KML,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,3,KML,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,3,KML,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,3,KML,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,KML,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,3,KML,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,KML,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,KML,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2021,3,MB,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,3,MB,DCPA,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,3,MB,Dicamba,Monitored,EPA 515.4,<0.1,µg/L,N/A,N/A
+2021,3,MB,Dieldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2021,3,MB,Molinate,Monitored,EPA 525.2,<0.1,µg/L,N/A,N/A
+2021,3,MB,Perchlorate,Monitored,EPA 314.0,<2,µg/L,N/A,N/A
+2021,3,MB,"2,4,5-T",Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,3,MB,"2,4-DB",Unregulated,EPA 515.4,<2,µg/L,N/A,N/A
+2021,3,MB,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,3,MB,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2021,3,MB,Acifluorfen,Unregulated,EPA 515.4,<0.2,µg/L,N/A,N/A
+2021,3,MB,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,MB,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2021,3,MB,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,MB,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2021,3,MB,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2022,3,KML,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2022,3,KML,Molinate,Monitored,EPA 525.2,<0.099,µg/L,N/A,N/A
+2022,3,KML,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2022,3,KML,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2022,3,KML,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,KML,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2022,3,KML,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,KML,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,KML,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2022,3,MB,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2022,3,MB,Molinate,Monitored,EPA 525.2,<0.098,µg/L,N/A,N/A
+2022,3,MB,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2022,3,MB,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2022,3,MB,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,MB,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2022,3,MB,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,MB,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2022,3,MB,Thiobencarb,Unregulated,EPA 525.2,<0.2,µg/L,N/A,N/A
+2023,3,KML,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2023,3,KML,Molinate,Monitored,EPA 525.2,<0.097,µg/L,N/A,N/A
+2023,3,KML,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2023,3,KML,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2023,3,KML,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,KML,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2023,3,KML,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,KML,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,KML,Thiobencarb,Unregulated,EPA 525.2,<0.19,µg/L,N/A,N/A
+2023,3,MB,Aldrin,Monitored,EPA 505,<0.01,µg/L,N/A,N/A
+2023,3,MB,Molinate,Monitored,EPA 525.2,<0.097,µg/L,N/A,N/A
+2023,3,MB,2-Butanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2023,3,MB,4-Methyl-2-Pentanone,Unregulated,EPA 524.2,<5,µg/L,N/A,N/A
+2023,3,MB,Di-isopropyl ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,MB,Paraquat,Unregulated,EPA 549.2,<2,µg/L,N/A,N/A
+2023,3,MB,tert-Amyl Methyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,MB,tert-Butyl Ethyl Ether,Unregulated,EPA 524.2,<3,µg/L,N/A,N/A
+2023,3,MB,Thiobencarb,Unregulated,EPA 525.2,<0.19,µg/L,N/A,N/A
+2021,1,KML,"Hardness, gr/Gal",Of Interest,Calculated,1.9,gr/Gal,N/A,N/A
+2021,1,KML,"Temperature, C",Of Interest,Calculated,7.2,°C,N/A,N/A
+2021,1,MB,"Hardness, gr/Gal",Of Interest,Calculated,2.6,gr/Gal,N/A,N/A
+2021,1,MB,"Temperature, C",Of Interest,Calculated,11.1,°C,N/A,N/A
+2021,2,KML,"Hardness, gr/Gal",Of Interest,Calculated,1.9,gr/Gal,N/A,N/A
+2021,2,KML,"Temperature, C",Of Interest,Calculated,20.6,°C,N/A,N/A
+2021,2,MB,"Hardness, gr/Gal",Of Interest,Calculated,2.5,gr/Gal,N/A,N/A
+2021,2,MB,"Temperature, C",Of Interest,Calculated,21.7,°C,N/A,N/A
+2021,3,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.1,gr/Gal,N/A,N/A
+2021,3,KML,"Temperature, C",Of Interest,Calculated,26.7,°C,N/A,N/A
+2021,3,MB,"Hardness, gr/Gal",Of Interest,Calculated,3,gr/Gal,N/A,N/A
+2021,3,MB,"Temperature, C",Of Interest,Calculated,27.8,°C,N/A,N/A
+2021,4,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2021,4,KML,"Temperature, C",Of Interest,Calculated,16.7,°C,N/A,N/A
+2021,4,MB,"Hardness, gr/Gal",Of Interest,Calculated,3,gr/Gal,N/A,N/A
+2021,4,MB,"Temperature, C",Of Interest,Calculated,18.3,°C,N/A,N/A
+2022,1,KML,"Hardness, gr/Gal",Of Interest,Calculated,2,gr/Gal,N/A,N/A
+2022,1,KML,"Temperature, C",Of Interest,Calculated,7.2,°C,N/A,N/A
+2022,1,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.5,gr/Gal,N/A,N/A
+2022,1,MB,"Temperature, C",Of Interest,Calculated,11.7,°C,N/A,N/A
+2022,2,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.2,gr/Gal,N/A,N/A
+2022,2,KML,"Temperature, C",Of Interest,Calculated,20,°C,N/A,N/A
+2022,2,MB,"Hardness, gr/Gal",Of Interest,Calculated,2.9,gr/Gal,N/A,N/A
+2022,2,MB,"Temperature, C",Of Interest,Calculated,20,°C,N/A,N/A
+2022,3,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2022,3,KML,"Temperature, C",Of Interest,Calculated,28.9,°C,N/A,N/A
+2022,3,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.5,gr/Gal,N/A,N/A
+2022,3,MB,"Temperature, C",Of Interest,Calculated,28.3,°C,N/A,N/A
+2022,4,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.5,gr/Gal,N/A,N/A
+2022,4,KML,"Temperature, C",Of Interest,Calculated,18.3,°C,N/A,N/A
+2022,4,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.5,gr/Gal,N/A,N/A
+2022,4,MB,"Temperature, C",Of Interest,Calculated,20,°C,N/A,N/A
+2023,1,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2023,1,KML,"Temperature, C",Of Interest,Calculated,8.9,°C,N/A,N/A
+2023,1,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.6,gr/Gal,N/A,N/A
+2023,1,MB,"Temperature, C",Of Interest,Calculated,12.8,°C,N/A,N/A
+2023,2,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2023,2,KML,"Temperature, C",Of Interest,Calculated,20.6,°C,N/A,N/A
+2023,2,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.3,gr/Gal,N/A,N/A
+2023,2,MB,"Temperature, C",Of Interest,Calculated,21.1,°C,N/A,N/A
+2023,3,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.5,gr/Gal,N/A,N/A
+2023,3,KML,"Temperature, C",Of Interest,Calculated,27.8,°C,N/A,N/A
+2023,3,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.6,gr/Gal,N/A,N/A
+2023,3,MB,"Temperature, C",Of Interest,Calculated,27.8,°C,N/A,N/A
+2023,4,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2023,4,KML,"Temperature, C",Of Interest,Calculated,16.1,°C,N/A,N/A
+2023,4,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.3,gr/Gal,N/A,N/A
+2023,4,MB,"Temperature, C",Of Interest,Calculated,18.3,°C,N/A,N/A
+2024,1,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.1,gr/Gal,N/A,N/A
+2024,1,KML,"Temperature, C",Of Interest,Calculated,10,°C,N/A,N/A
+2024,1,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.3,gr/Gal,N/A,N/A
+2024,1,MB,"Temperature, C",Of Interest,Calculated,13.3,°C,N/A,N/A
+2024,2,KML,"Hardness, gr/Gal",Of Interest,Calculated,2.3,gr/Gal,N/A,N/A
+2024,2,KML,"Temperature, C",Of Interest,Calculated,21.7,°C,N/A,N/A
+2024,2,MB,"Hardness, gr/Gal",Of Interest,Calculated,3.2,gr/Gal,N/A,N/A
+2024,2,MB,"Temperature, C",Of Interest,Calculated,20,°C,N/A,N/A
+2021,1,KML,Potassium,Of Interest,EPA 200.8,3.154,mg/L,N/A,N/A
+2021,1,KML,Silica,Of Interest,EPA 200.7,5.8,mg/L,N/A,N/A
+2021,1,KML,Sodium,Of Interest,EPA 200.8,17.33,mg/L,N/A,N/A
+2021,1,KML,"Solids, Total",Of Interest,SM 2540 B,101,mg/L,N/A,N/A
+2021,1,KML,"Solids, Volatile",Of Interest,SM 2540 E,23.3,mg/L,N/A,N/A
+2021,1,MB,Potassium,Of Interest,EPA 200.8,3.104,mg/L,N/A,N/A
+2021,1,MB,Silica,Of Interest,EPA 200.7,6,mg/L,N/A,N/A
+2021,1,MB,Sodium,Of Interest,EPA 200.8,9.808,mg/L,N/A,N/A
+2021,1,MB,"Solids, Total",Of Interest,SM 2540 B,98.6,mg/L,N/A,N/A
+2021,1,MB,"Solids, Volatile",Of Interest,SM 2540 E,27.3,mg/L,N/A,N/A
+2021,2,KML,Potassium,Of Interest,EPA 200.8,2.326,mg/L,N/A,N/A
+2021,2,KML,Silica,Of Interest,EPA 200.7,1.9,mg/L,N/A,N/A
+2021,2,KML,Sodium,Of Interest,EPA 200.8,14.033,mg/L,N/A,N/A
+2021,2,KML,"Solids, Total",Of Interest,SM 2540 B,94.7,mg/L,N/A,N/A
+2021,2,KML,"Solids, Volatile",Of Interest,SM 2540 E,15.3,mg/L,N/A,N/A
+2021,2,MB,Potassium,Of Interest,EPA 200.8,2.505,mg/L,N/A,N/A
+2021,2,MB,Silica,Of Interest,EPA 200.7,2,mg/L,N/A,N/A
+2021,2,MB,Sodium,Of Interest,EPA 200.8,10.796,mg/L,N/A,N/A
+2021,2,MB,"Solids, Total",Of Interest,SM 2540 B,86.7,mg/L,N/A,N/A
+2021,2,MB,"Solids, Volatile",Of Interest,SM 2540 E,20.7,mg/L,N/A,N/A
+2021,3,KML,Potassium,Of Interest,EPA 200.8,2.205,mg/L,N/A,N/A
+2021,3,KML,Silica,Of Interest,EPA 200.7,4.5,mg/L,N/A,N/A
+2021,3,KML,Sodium,Of Interest,EPA 200.8,17.649,mg/L,N/A,N/A
+2021,3,KML,"Solids, Total",Of Interest,SM 2540 B,98.7,mg/L,N/A,N/A
+2021,3,KML,"Solids, Volatile",Of Interest,SM 2540 E,18.7,mg/L,N/A,N/A
+2021,3,MB,Potassium,Of Interest,EPA 200.8,2.192,mg/L,N/A,N/A
+2021,3,MB,Silica,Of Interest,EPA 200.7,5.2,mg/L,N/A,N/A
+2021,3,MB,Sodium,Of Interest,EPA 200.8,12.207,mg/L,N/A,N/A
+2021,3,MB,"Solids, Total",Of Interest,SM 2540 B,105.3,mg/L,N/A,N/A
+2021,3,MB,"Solids, Volatile",Of Interest,SM 2540 E,22,mg/L,N/A,N/A
+2021,4,KML,Potassium,Of Interest,EPA 200.8,2.328,mg/L,N/A,N/A
+2021,4,KML,Silica,Of Interest,EPA 200.7,5.2,mg/L,N/A,N/A
+2021,4,KML,Sodium,Of Interest,EPA 200.8,16.064,mg/L,N/A,N/A
+2021,4,KML,"Solids, Total",Of Interest,SM 2540 B,102,mg/L,N/A,N/A
+2021,4,KML,"Solids, Volatile",Of Interest,SM 2540 E,20,mg/L,N/A,N/A
+2021,4,MB,Potassium,Of Interest,EPA 200.8,2.386,mg/L,N/A,N/A
+2021,4,MB,Silica,Of Interest,EPA 200.7,6,mg/L,N/A,N/A
+2021,4,MB,Sodium,Of Interest,EPA 200.8,12.541,mg/L,N/A,N/A
+2021,4,MB,"Solids, Total",Of Interest,SM 2540 B,98,mg/L,N/A,N/A
+2021,4,MB,"Solids, Volatile",Of Interest,SM 2540 E,11.3,mg/L,N/A,N/A
+2022,1,KML,Potassium,Of Interest,EPA 200.8,2.511,mg/L,N/A,N/A
+2022,1,KML,Silica,Of Interest,EPA 200.7,6.8,mg/L,N/A,N/A
+2022,1,KML,Sodium,Of Interest,EPA 200.8,24.403,mg/L,N/A,N/A
+2022,1,KML,"Solids, Total",Of Interest,SM 2540 B,107,mg/L,N/A,N/A
+2022,1,KML,"Solids, Volatile",Of Interest,SM 2540 E,25,mg/L,N/A,N/A
+2022,1,MB,Potassium,Of Interest,EPA 200.8,2.479,mg/L,N/A,N/A
+2022,1,MB,Silica,Of Interest,EPA 200.7,7.4,mg/L,N/A,N/A
+2022,1,MB,Sodium,Of Interest,EPA 200.8,15.926,mg/L,N/A,N/A
+2022,1,MB,"Solids, Total",Of Interest,SM 2540 B,124,mg/L,N/A,N/A
+2022,1,MB,"Solids, Volatile",Of Interest,SM 2540 E,27,mg/L,N/A,N/A
+2022,2,KML,Potassium,Of Interest,EPA 200.8,2.552,mg/L,N/A,N/A
+2022,2,KML,Silica,Of Interest,EPA 200.7,1.8,mg/L,N/A,N/A
+2022,2,KML,Sodium,Of Interest,EPA 200.8,16.34,mg/L,N/A,N/A
+2022,2,KML,"Solids, Total",Of Interest,SM 2540 B,90.7,mg/L,N/A,N/A
+2022,2,KML,"Solids, Volatile",Of Interest,SM 2540 E,6.67,mg/L,N/A,N/A
+2022,2,MB,Potassium,Of Interest,EPA 200.8,2.517,mg/L,N/A,N/A
+2022,2,MB,Silica,Of Interest,EPA 200.7,2.6,mg/L,N/A,N/A
+2022,2,MB,Sodium,Of Interest,EPA 200.8,12.625,mg/L,N/A,N/A
+2022,2,MB,"Solids, Total",Of Interest,SM 2540 B,104,mg/L,N/A,N/A
+2022,2,MB,"Solids, Volatile",Of Interest,SM 2540 E,13.3,mg/L,N/A,N/A
+2022,3,KML,Potassium,Of Interest,EPA 200.8,2.761,mg/L,N/A,N/A
+2022,3,KML,Silica,Of Interest,EPA 200.7,5.8,mg/L,N/A,N/A
+2022,3,KML,Sodium,Of Interest,EPA 200.8,24.469,mg/L,N/A,N/A
+2022,3,KML,"Solids, Total",Of Interest,SM 2540 B,123.3,mg/L,N/A,N/A
+2022,3,KML,"Solids, Volatile",Of Interest,SM 2540 E,19.3,mg/L,N/A,N/A
+2022,3,MB,Potassium,Of Interest,EPA 200.8,2.549,mg/L,N/A,N/A
+2022,3,MB,Silica,Of Interest,EPA 200.7,7.1,mg/L,N/A,N/A
+2022,3,MB,Sodium,Of Interest,EPA 200.8,17.977,mg/L,N/A,N/A
+2022,3,MB,"Solids, Total",Of Interest,SM 2540 B,144.7,mg/L,N/A,N/A
+2022,3,MB,"Solids, Volatile",Of Interest,SM 2540 E,22,mg/L,N/A,N/A
+2022,4,KML,Potassium,Of Interest,EPA 200.8,2.542,mg/L,N/A,N/A
+2022,4,KML,Silica,Of Interest,EPA 200.7,9.2,mg/L,N/A,N/A
+2022,4,KML,Sodium,Of Interest,EPA 200.8,24.141,mg/L,N/A,N/A
+2022,4,KML,"Solids, Total",Of Interest,SM 2540 B,132,mg/L,N/A,N/A
+2022,4,KML,"Solids, Volatile",Of Interest,SM 2540 E,18.7,mg/L,N/A,N/A
+2022,4,MB,Potassium,Of Interest,EPA 200.8,2.487,mg/L,N/A,N/A
+2022,4,MB,Silica,Of Interest,EPA 200.7,9.7,mg/L,N/A,N/A
+2022,4,MB,Sodium,Of Interest,EPA 200.8,16.436,mg/L,N/A,N/A
+2022,4,MB,"Solids, Total",Of Interest,SM 2540 B,126.7,mg/L,N/A,N/A
+2022,4,MB,"Solids, Volatile",Of Interest,SM 2540 E,26.7,mg/L,N/A,N/A
+2023,1,KML,Potassium,Of Interest,EPA 200.8,2.515,mg/L,N/A,N/A
+2023,1,KML,Silica,Of Interest,EPA 200.7,6.8,mg/L,N/A,N/A
+2023,1,KML,Sodium,Of Interest,EPA 200.8,25.043,mg/L,N/A,N/A
+2023,1,KML,"Solids, Total",Of Interest,SM 2540 B,127.3,mg/L,N/A,N/A
+2023,1,KML,"Solids, Volatile",Of Interest,SM 2540 E,22.67,mg/L,N/A,N/A
+2023,1,MB,Potassium,Of Interest,EPA 200.8,2.55,mg/L,N/A,N/A
+2023,1,MB,Silica,Of Interest,EPA 200.7,7.9,mg/L,N/A,N/A
+2023,1,MB,Sodium,Of Interest,EPA 200.8,15.992,mg/L,N/A,N/A
+2023,1,MB,"Solids, Total",Of Interest,SM 2540 B,134,mg/L,N/A,N/A
+2023,1,MB,"Solids, Volatile",Of Interest,SM 2540 E,22.67,mg/L,N/A,N/A
+2023,2,KML,Potassium,Of Interest,EPA 200.8,2.701,mg/L,N/A,N/A
+2023,2,KML,Silica,Of Interest,EPA 200.7,6.9,mg/L,N/A,N/A
+2023,2,KML,Sodium,Of Interest,EPA 200.8,25.828,mg/L,N/A,N/A
+2023,2,KML,"Solids, Total",Of Interest,SM 2540 B,125,mg/L,N/A,N/A
+2023,2,KML,"Solids, Volatile",Of Interest,SM 2540 E,19.3,mg/L,N/A,N/A
+2023,2,MB,Potassium,Of Interest,EPA 200.8,2.598,mg/L,N/A,N/A
+2023,2,MB,Silica,Of Interest,EPA 200.7,6.4,mg/L,N/A,N/A
+2023,2,MB,Sodium,Of Interest,EPA 200.8,18.727,mg/L,N/A,N/A
+2023,2,MB,"Solids, Total",Of Interest,SM 2540 B,131,mg/L,N/A,N/A
+2023,2,MB,"Solids, Volatile",Of Interest,SM 2540 E,20.7,mg/L,N/A,N/A
+2023,3,KML,Potassium,Of Interest,EPA 200.8,2.665,mg/L,N/A,N/A
+2023,3,KML,Silica,Of Interest,EPA 200.7,7.6,mg/L,N/A,N/A
+2023,3,KML,Sodium,Of Interest,EPA 200.8,27.776,mg/L,N/A,N/A
+2023,3,KML,"Solids, Total",Of Interest,SM 2540 B,142,mg/L,N/A,N/A
+2023,3,KML,"Solids, Volatile",Of Interest,SM 2540 E,20,mg/L,N/A,N/A
+2023,3,MB,Potassium,Of Interest,EPA 200.8,2.559,mg/L,N/A,N/A
+2023,3,MB,Silica,Of Interest,EPA 200.7,7.5,mg/L,N/A,N/A
+2023,3,MB,Sodium,Of Interest,EPA 200.8,16.174,mg/L,N/A,N/A
+2023,3,MB,"Solids, Total",Of Interest,SM 2540 B,138,mg/L,N/A,N/A
+2023,3,MB,"Solids, Volatile",Of Interest,SM 2540 E,20,mg/L,N/A,N/A
+2023,4,KML,Potassium,Of Interest,EPA 200.8,2.641,mg/L,N/A,N/A
+2023,4,KML,Silica,Of Interest,EPA 200.7,8.8,mg/L,N/A,N/A
+2023,4,KML,Sodium,Of Interest,EPA 200.8,22.254,mg/L,N/A,N/A
+2023,4,KML,"Solids, Total",Of Interest,SM 2540 B,121,mg/L,N/A,N/A
+2023,4,KML,"Solids, Volatile",Of Interest,SM 2540 E,12.7,mg/L,N/A,N/A
+2023,4,MB,Potassium,Of Interest,EPA 200.8,2.652,mg/L,N/A,N/A
+2023,4,MB,Silica,Of Interest,EPA 200.7,8.8,mg/L,N/A,N/A
+2023,4,MB,Sodium,Of Interest,EPA 200.8,14.758,mg/L,N/A,N/A
+2023,4,MB,"Solids, Total",Of Interest,SM 2540 B,130,mg/L,N/A,N/A
+2023,4,MB,"Solids, Volatile",Of Interest,SM 2540 E,22.7,mg/L,N/A,N/A
+2024,1,KML,Potassium,Of Interest,EPA 200.8,2.752,mg/L,N/A,N/A
+2024,1,KML,Silica,Of Interest,EPA 200.7,6.5,mg/L,N/A,N/A
+2024,1,KML,Sodium,Of Interest,EPA 200.8,29.268,mg/L,N/A,N/A
+2024,1,KML,"Solids, Total",Of Interest,SM 2540 B,133,mg/L,N/A,N/A
+2024,1,KML,"Solids, Volatile",Of Interest,SM 2540 E,10,mg/L,N/A,N/A
+2024,1,MB,Potassium,Of Interest,EPA 200.8,2.707,mg/L,N/A,N/A
+2024,1,MB,Silica,Of Interest,EPA 200.7,6.9,mg/L,N/A,N/A
+2024,1,MB,Sodium,Of Interest,EPA 200.8,15.356,mg/L,N/A,N/A
+2024,1,MB,"Solids, Total",Of Interest,SM 2540 B,126,mg/L,N/A,N/A
+2024,1,MB,"Solids, Volatile",Of Interest,SM 2540 E,14,mg/L,N/A,N/A
+2024,2,KML,Potassium,Of Interest,EPA 200.8,2.953,mg/L,N/A,N/A
+2024,2,KML,Silica,Of Interest,EPA 200.7,4.3,mg/L,N/A,N/A
+2024,2,KML,Sodium,Of Interest,EPA 200.8,21.641,mg/L,N/A,N/A
+2024,2,KML,"Solids, Total",Of Interest,SM 2540 B,128,mg/L,N/A,N/A
+2024,2,KML,"Solids, Volatile",Of Interest,SM 2540 E,19.3,mg/L,N/A,N/A
+2024,2,MB,Potassium,Of Interest,EPA 200.8,2.928,mg/L,N/A,N/A
+2024,2,MB,Silica,Of Interest,EPA 200.7,5,mg/L,N/A,N/A
+2024,2,MB,Sodium,Of Interest,EPA 200.8,15.477,mg/L,N/A,N/A
+2024,2,MB,"Solids, Total",Of Interest,SM 2540 B,129,mg/L,N/A,N/A
+2024,2,MB,"Solids, Volatile",Of Interest,SM 2540 E,22,mg/L,N/A,N/A
