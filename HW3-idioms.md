@@ -12,4 +12,4 @@ there wasn't much I had to do in terms of data pre-processing, the data is alrea
 
 ## Visualization Idioms & visual encoding choices
 
-![Alt text]((https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/Screenshot%202025-02-23%20at%2019.19.21.png))
+![Alt text](https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/Screenshot%202025-02-23%20at%2019.19.21.png)
