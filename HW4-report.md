@@ -32,12 +32,19 @@ Other than the base seaborn designs, there is no extraneous additions in terms o
 this was generated using chat GPT as a baseline which I adapted for my first chart
 
 plt.figure(figsize=(10, 6))
+
 sns.lineplot(data=df, x='Date', y='Value', hue='Category', marker='o')
+
 plt.title("Multiple Line Chart using Seaborn")
+
 plt.xlabel("Date")
+
 plt.ylabel("Value")
+
 plt.xticks(rotation=45)
+
 plt.legend(title="Category")
+
 plt.show()
 
 
