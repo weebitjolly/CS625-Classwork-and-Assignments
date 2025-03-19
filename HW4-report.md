@@ -29,7 +29,7 @@ Design Choices:
 Other than the base seaborn designs, there is no extraneous additions in terms of changing marks, outside of using hue to differentiate categories, but other than that there was no thought put into design choices. if I were to change something it would be to change some data labels to remove the y-axis which takes up a lot of space.
 
 ### Q2 *Months with the Highest Temps
-![alt text](highest temps.jpg)
+![alt text](highesttemps.jpg)
 
 -idiom chart:
 
