@@ -28,4 +28,16 @@ we can see that in the above chart both regional implications and a general patt
 Design Choices:
 Other than the base seaborn designs, there is no extraneous additions in terms of changing marks, outside of using hue to differentiate categories, but other than that there was no thought put into design choices. if I were to change something it would be to change some data labels to remove the y-axis which takes up a lot of space.
 
+## References
+this was generated using chat GPT as a baseline which I adapted for my first chart
+
+plt.figure(figsize=(10, 6))
+sns.lineplot(data=df, x='Date', y='Value', hue='Category', marker='o')
+plt.title("Multiple Line Chart using Seaborn")
+plt.xlabel("Date")
+plt.ylabel("Value")
+plt.xticks(rotation=45)
+plt.legend(title="Category")
+plt.show()
+
 
