@@ -7,7 +7,7 @@
 ##Dataset 3: Record High Temperatures
 ### Q1: *Record High Temperatures for the top 5 Most Populated Cities*
 ![alt text](Top5Cities.jpg)
-- Link to the chart: https://colab.research.google.com/drive/1XOmwWl5qf14c1EUq-FLcZVEbUjp9Ae6d?usp=sharing
+- Link to the chart(s): https://colab.research.google.com/drive/1XOmwWl5qf14c1EUq-FLcZVEbUjp9Ae6d?usp=sharing
 
 -idiom chart
 | Data: Attribute  | Data: Attribute Type  | Encode: Channel |  
@@ -27,6 +27,21 @@ we can see that in the above chart both regional implications and a general patt
 
 Design Choices:
 Other than the base seaborn designs, there is no extraneous additions in terms of changing marks, outside of using hue to differentiate categories, but other than that there was no thought put into design choices. if I were to change something it would be to change some data labels to remove the y-axis which takes up a lot of space.
+
+### Q2 *Months with the Highest Temps
+![alt text](highest temps.jpg)
+
+-idiom chart:
+
+| **Data: Attribute** | **Data: Attribute Type** | **Encode: Channel** |  
+|---------------------|-------------------------|----------------------|  
+| Month              | key, ordered             | outer horizontal spatial region (x-axis) |  
+| Count              | value, quantitative      | vertical position on a common scale (y-axis) |  
+| Month              | categorical              | color hue (hue, via `palette='viridis'`) |  
+| Data
+
+
+
 
 ## References
 this was generated using chat GPT as a baseline which I adapted for my first chart
