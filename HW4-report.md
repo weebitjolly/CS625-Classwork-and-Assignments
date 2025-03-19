@@ -17,9 +17,15 @@
 | Station       | categorical           | color hue (hue) |  
 | Station       | categorical           | line identity (each line represents a station) |  
 | Data Points   | individual values     | marker shape (optional, for emphasis) |
+
 *generated with the help of AI* 
 
 This idiom is appropriate for the chart and question because it shows both how different categories (cities) differ and compare with one another, but also how they change over time. I tried to do this with a clustered bar chart but this did not effectively do the second task, this is why the multiple line chart appropriately showed the 5 cities I chose and their correspionding temperatures.
 
 Insights: 
-we can see that in the above 
+we can see that in the above chart both regional implications and a general pattern that temperatures follow by month. First we can see that both chicago and New York follow a similar path, with a steady rise in fall in high temperatures over the year. In Los Angeles we can see more varied drops and increases throuhgout the year. with Phoenix having the clear highest temperatures throuhgout the year. More insights could be garnered with a mirrored chart that maps record lows.
+
+Design Choices:
+Other than the base seaborn designs, there is no extraneous additions in terms of changing marks, outside of using hue to differentiate categories, but other than that there was no thought put into design choices. if I were to change something it would be to change some data labels to remove the y-axis which takes up a lot of space.
+
+
