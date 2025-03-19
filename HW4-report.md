@@ -38,10 +38,21 @@ Other than the base seaborn designs, there is no extraneous additions in terms o
 | Month              | key, ordered             | outer horizontal spatial region (x-axis) |  
 | Count              | value, quantitative      | vertical position on a common scale (y-axis) |  
 | Month              | categorical              | color hue (hue, via `palette='viridis'`) |  
-| Data
+| Data Points        | individual values        | bar height (each bar represents a month’s count) |  
 
+*again created with the help of AI*
 
+This idiom is appropriate for the question because it effectively shows the number of times a month has had the highest temperature for each of the stations. it uses the viridis pallete to indicate intensity/level of that bar, and has count on the y-axis to show the number of times that month has been the highest temperature for all the cities.
 
+Insights:
+from what we can see on the chart July has the highest count of high temperatures out of any month with June and August following behind at a large margin. with September and October being left in the dust. Its clear that July is the hottest month in most of the US.
+
+Design Choices:
+Here the hardest part was just aggregating and grouping data by highest month totals in the code. as for design choices viridis seemed to be the best choice to indicate levels of counts.
+
+## Further Questions
+
+It would be interesting to see how different cities vary in terms of temperature overtime, what would enhance this is variables to correlate with to see what different factors influence temperatures across the United States possibly even levels of CO2 emissions by state.
 
 ## References
 this was generated using chat GPT as a baseline which I adapted for my first chart
