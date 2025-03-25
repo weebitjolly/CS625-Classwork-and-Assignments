@@ -12,13 +12,19 @@ link to the google colab where these visual were created: https://colab.research
 
 ### Data Manipulation
 
+![alt text](boxplotsURP.jpg)
+
 ## Chart 2: histogram: Show the distribution of either the urban or rural population in 2000 (your chart title must indicate which)
 
 ### Data Manipulation
 
+![alt text](histogramurban.jpg)
+
 ## Chart 3: eCDF: Show the distributions of urban and rural populations in 2000
 
 ### Data Manipulation
+
+![alt text](URPeCDF.jpg)
 
 # Part 2: Further Analysis
 
