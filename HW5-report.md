@@ -65,11 +65,65 @@ I'll only show the one for urban because the rural is pretty much the same code 
 ## Chart 3: eCDF: Show the distributions of urban and rural populations in 2000
 
 ### Data Manipulation
+After doing the data manipulation for the second chart we didn't have to do anymore after this until part 2
 
 ![alt text](URPeCDF.jpg)
 
 ### Explanation of Advantages, Disadvantages and Observations
+```# Create a figure for plotting
+plt.figure(figsize=(10, 6))
+
+# Plot the urban population eCDF
+sns.ecdfplot(urban_data, label="Urban Population", color="blue")
+
+# Plot the rural population eCDF
+sns.ecdfplot(rural_data, label="Rural Population", color="green")
+
+# Add labels and title
+plt.title("eCDF of Urban and Rural Populations in the US in 2000")
+plt.xlabel("Population Size (in 1,000s)")
+plt.ylabel("Cumulative Probability")
+
+# Display the legend
+plt.legend()
+
+# Show plot
+plt.savefig('URPeCDF.jpg', dpi=300, bbox_inches='tight')
+plt.show()
+```
+Ok this is a great plot for statisticians, I know when I first started this class I didn't know what I was looking at but, this kind of combines the best of both worlds in the histogram and boxplot. We can see both of them compared and we can see the distribution of data. We can also see that there are no extreme outliers or jumps in the data for the rural side of the country compared to the urban side. This tells us that overall rural population don't vary as much as urban populations do from state to state. I would say the only downside of this visual is readability if you are not versed in eCDF's you might be a bit confused.
 
 # Part 2: Further Analysis
+
+![alt text](Highestpopbarcharts.jpg)
+
+```# Group by 'State' and sum the populations for each
+urban_population_by_state = urban_data_state.groupby('State')['Total'].sum().sort_values(ascending=False).head(5)
+rural_population_by_state = rural_data_state.groupby('State')['Total'].sum().sort_values(ascending=False).head(5)
+
+# Create a figure for plotting
+plt.figure(figsize=(12, 6))
+
+# Plot the urban population bar chart
+plt.subplot(1, 2, 1)  # (rows, columns, plot number)
+sns.barplot(x=urban_population_by_state.index, y=urban_population_by_state.values, color='blue')
+plt.title('Top 5 States with the Highest Urban Population in 2000')
+plt.xlabel('State')
+plt.ylabel('Population Size (in 1,000s)')
+
+# Plot the rural population bar chart
+plt.subplot(1, 2, 2)  # (rows, columns, plot number)
+sns.barplot(x=rural_population_by_state.index, y=rural_population_by_state.values, color='green')
+plt.title('Top 5 States with the Highest Rural Population in 2000')
+plt.xlabel('State')
+plt.ylabel('Population Size (in 1,000s)')
+
+# Adjust layout for better appearance
+plt.tight_layout()
+
+# Show the plots
+plt.show()
+plt.savefig('Highestpopbarcharts.jpg', dpi=300, bbox_inches='tight')
+```
 
 ## References
