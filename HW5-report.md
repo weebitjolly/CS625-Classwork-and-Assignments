@@ -125,5 +125,14 @@ plt.tight_layout()
 plt.show()
 plt.savefig('Highestpopbarcharts.jpg', dpi=300, bbox_inches='tight')
 ```
+The biggest find I got from this analysis was that one, California has a considerable urban population which definitely skews distributions heavily and 2 that Texas appears on both of these charts this is important because it gives us a bit more insight into why states might vote a certain way. it would be very cool to make this a time-series study that looks at how these trends change overtime and see how different states differ from 2000 to present population distributions. Then you could do correlation studies to see how populations correlate with voting pattern and such.
 
 ## References
+The basis for a lot of theseplots comes from prior classes, then I applied the data variables where necessary. AI was used in some of my data manipulations including this guy:
+```# Group by 'State' and sum the populations for each
+urban_population_by_state = urban_data_state.groupby('State')['Total'].sum().sort_values(ascending=False).head(5)
+rural_population_by_state = rural_data_state.groupby('State')['Total'].sum().sort_values(ascending=False).head(5)
+```
+this allowed me to do the top 5 populations analysis.
+
+AI also helped with some debugging as well.
