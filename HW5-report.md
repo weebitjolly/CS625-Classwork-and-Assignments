@@ -4,6 +4,8 @@
 ## Assignment HW5
 ## Date: 03/24/25
 
+link to the google colab where these visual were created: https://colab.research.google.com/drive/1wQig4G7FziJlTVUBhTbv3dRKzgAribFG#scrollTo=kUgTb-Ox_D4Q 
+
 # Part 1: Chart Creation and Intial Analysis
 
 ## Chart 1:boxplot: Show the distributions of the urban and rural populations in 2000
