@@ -27,6 +27,6 @@ accidents all throughout Virginia, and focused most of my analysis on Norfolk.
 ![alt text](Top5Cities.jpg)
 
 
-![alt text](FatalityRateSmallMultiple.png)
+![alt text](FatalityRateSmallMultiple.png) 
 
 
