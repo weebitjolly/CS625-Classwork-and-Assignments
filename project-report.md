@@ -29,4 +29,14 @@ accidents all throughout Virginia, and focused most of my analysis on Norfolk.
 
 ![alt text](FatalityRateSmallMultiple.png) 
 
+| Data: Attribute   | Data: Attribute Type | Encode: Channel                                     |
+|-------------------|----------------------|-----------------------------------------------------|
+| Pedestrian?       | categorical (binary) | horizontal position (x-axis)                        |
+| Fatality Rate     | quantitative         | vertical position on common scale (y-axis)          |
+| Pedestrian?       | categorical (binary) | bar identity (each bar represents Yes or No)        |
+| Fatality Rate     | quantitative         | label text (numeric value shown above each bar)     |
+| Pedestrian?       | categorical (binary) | bar fill color (same hue, no variation here)        |
+
+Link to charts: https://github.com/weebitjolly/CS625-Classwork-and-Assignments/blob/main/Car%20and%20Bike%20Dashboard.pbix
+
 
