@@ -15,16 +15,16 @@ accidents all throughout Virginia, and focused most of my analysis on Norfolk.
 -What causes fatal accidents?
 
 ###Final Charts
-![alt text](Top5Cities.jpg)
+![alt text](NumberofCrashesbyMonthandYEar.png)
 
 
-![alt text](Top5Cities.jpg)
+![alt text](NumberofCrashesbySeverity.png)
 
 
-![alt text](Top5Cities.jpg)
+![alt text](NumberofCrashesbyTimeofDay.png)
 
 
-![alt text](Top5Cities.jpg)
+![alt text](MapofCrashes.png)
 
 
 ![alt text](FatalityRateSmallMultiple.png) 
